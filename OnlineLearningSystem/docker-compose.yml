@@ -14,7 +14,7 @@ services:
       - app-network
 
   db:
-    image: mcr.microsoft.com/mssql/server:2019-latest  # SQL Server image-i
+    image: mcr.microsoft.com/mssql/server:2022-latest  # SQL Server image-i
     environment:
       - ACCEPT_EULA=Y
       - SA_PASSWORD=aytac2005ayTac  # Şifrənizi buraya daxil edin

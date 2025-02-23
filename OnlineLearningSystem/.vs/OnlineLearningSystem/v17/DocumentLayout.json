@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|solutionrelative:onlinelearningsystem.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\onlinelearninsystm\\onlinelearningsystem\\onlinelearningsystem.mvc\\wwwroot\\assets\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|solutionrelative:onlinelearningsystem.mvc\\wwwroot\\assets\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\onlinelearninsystm\\onlinelearningsystem\\onlinelearningsystem.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|solutionrelative:onlinelearningsystem.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\onlinelearninsystm\\onlinelearningsystem\\onlinelearningsystem.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|solutionrelative:onlinelearningsystem.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,11 +26,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\OnlineLearninSystm\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\assets\\css\\style.css",
+              "RelativeDocumentMoniker": "OnlineLearningSystem.MVC\\wwwroot\\assets\\css\\style.css",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\OnlineLearninSystm\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\assets\\css\\style.css",
+              "RelativeToolTip": "OnlineLearningSystem.MVC\\wwwroot\\assets\\css\\style.css",
+              "ViewState": "AgIAAIUCAAAAAAAAAADwv6ICAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-23T17:28:17.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\OnlineLearninSystm\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "OnlineLearningSystem.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\OnlineLearninSystm\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "OnlineLearningSystem.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T17:26:58.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\OnlineLearninSystm\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Program.cs",
               "RelativeDocumentMoniker": "OnlineLearningSystem.MVC\\Program.cs",
@@ -40,7 +74,7 @@
               "RelativeDocumentMoniker": "OnlineLearningSystem.MVC\\appsettings.json",
               "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\OnlineLearninSystm\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\appsettings.json",
               "RelativeToolTip": "OnlineLearningSystem.MVC\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-02-23T14:46:51.153Z",
               "EditorCaption": ""

@@ -35,31 +35,14 @@
                         <li><a asp-controller="Course" asp-action="Index">Course</a></li>
                         <li><a asp-controller="Teacher" asp-action="Index">Teachers</a></li>
                         <li><a asp-controller="Contact" asp-action="Index">Contact</a></li>
-                        <li><a asp-controller="Course" asp-action="SearchCourses"><i class="fa-solid fa-magnifying-glass"></i></a></li>
-                        <!-- Axtarış Butonu -->
-                        <button id="searchToggle" class="btn btn-outline-success">
-                            <i class="bi bi-search"></i>
-                        </button>
-
-                        <!-- Axtarış Formu (Əvvəlcə gizlidir) -->
-                        <div id="searchBar" style="display: none;" class="mt-2">
-                            <form asp-controller="Course" asp-action="SearchCourses" method="get" class="d-flex">
-                                <input class="form-control me-2" type="search" name="searchTerm" placeholder="Search Courses..." aria-label="Search">
-                                <button class="btn btn-success" type="submit">Search</button>
+                        <li>
+                            <!-- Axtarış Formu -->
+                            <form asp-controller="Course" asp-action="SearchCourses" method="get" class="search-form">
+                                <input class="search-input" type="search" name="searchTerm" placeholder="Search Courses..." value="@Context.Request.Query["searchTerm"]" aria-label="Search">
+                                <button class="search-btn" type="submit"><i class="fa-solid fa-magnifying-glass"></i></button>
                             </form>
-                        </div>
+                        </li>
 
-                        <!-- JavaScript -->
-                        <script>
-                            document.getElementById("searchToggle").addEventListener("click", function () {
-                                var searchBar = document.getElementById("searchBar");
-                                if (searchBar.style.display === "none") {
-                                    searchBar.style.display = "block";
-                                } else {
-                                    searchBar.style.display = "none";
-                                }
-                            });
-                        </script>
                         <!-- Authentication Links -->
                         @if (!User.Identity.IsAuthenticated)
                         {

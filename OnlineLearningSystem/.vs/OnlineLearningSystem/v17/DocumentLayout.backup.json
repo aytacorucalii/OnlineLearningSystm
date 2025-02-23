@@ -1,0 +1,1147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearningsystem.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|solutionrelative:onlinelearningsystem.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearningsystem.mvc\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|solutionrelative:onlinelearningsystem.mvc\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearningsystem.mvc\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|solutionrelative:onlinelearningsystem.mvc\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearningsystem.mvc\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|solutionrelative:onlinelearningsystem.mvc\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearningsystem.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|solutionrelative:onlinelearningsystem.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A00F0D-CB07-4D7D-B39C-31E5AD63260E}|OnlineLearning.BL\\OnlineLearning.BL.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearning.bl\\dtos\\paymentdto\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A00F0D-CB07-4D7D-B39C-31E5AD63260E}|OnlineLearning.BL\\OnlineLearning.BL.csproj|solutionrelative:onlinelearning.bl\\dtos\\paymentdto\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DDAF58-2D32-46F9-9711-241AF5A5234F}|OnlineLearning.Core\\OnlineLearning.Core.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearning.core\\models\\paymentresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DDAF58-2D32-46F9-9711-241AF5A5234F}|OnlineLearning.Core\\OnlineLearning.Core.csproj|solutionrelative:onlinelearning.core\\models\\paymentresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DDAF58-2D32-46F9-9711-241AF5A5234F}|OnlineLearning.Core\\OnlineLearning.Core.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearning.core\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DDAF58-2D32-46F9-9711-241AF5A5234F}|OnlineLearning.Core\\OnlineLearning.Core.csproj|solutionrelative:onlinelearning.core\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DDAF58-2D32-46F9-9711-241AF5A5234F}|OnlineLearning.Core\\OnlineLearning.Core.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearning.core\\enums\\paymentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DDAF58-2D32-46F9-9711-241AF5A5234F}|OnlineLearning.Core\\OnlineLearning.Core.csproj|solutionrelative:onlinelearning.core\\enums\\paymentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DDAF58-2D32-46F9-9711-241AF5A5234F}|OnlineLearning.Core\\OnlineLearning.Core.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearning.core\\enums\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DDAF58-2D32-46F9-9711-241AF5A5234F}|OnlineLearning.Core\\OnlineLearning.Core.csproj|solutionrelative:onlinelearning.core\\enums\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearningsystem.mvc\\views\\payment\\createcheckoutsession.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|solutionrelative:onlinelearningsystem.mvc\\views\\payment\\createcheckoutsession.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A00F0D-CB07-4D7D-B39C-31E5AD63260E}|OnlineLearning.BL\\OnlineLearning.BL.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearning.bl\\validations\\paymentvalidations\\paymentvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A00F0D-CB07-4D7D-B39C-31E5AD63260E}|OnlineLearning.BL\\OnlineLearning.BL.csproj|solutionrelative:onlinelearning.bl\\validations\\paymentvalidations\\paymentvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearningsystem.mvc\\areas\\admin\\views\\payment\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|solutionrelative:onlinelearningsystem.mvc\\areas\\admin\\views\\payment\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearningsystem.mvc\\areas\\admin\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|solutionrelative:onlinelearningsystem.mvc\\areas\\admin\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearningsystem.mvc\\areas\\admin\\views\\payment\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|solutionrelative:onlinelearningsystem.mvc\\areas\\admin\\views\\payment\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearningsystem.mvc\\areas\\admin\\views\\payment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|solutionrelative:onlinelearningsystem.mvc\\areas\\admin\\views\\payment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A00F0D-CB07-4D7D-B39C-31E5AD63260E}|OnlineLearning.BL\\OnlineLearning.BL.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearning.bl\\services\\concretes\\stripeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A00F0D-CB07-4D7D-B39C-31E5AD63260E}|OnlineLearning.BL\\OnlineLearning.BL.csproj|solutionrelative:onlinelearning.bl\\services\\concretes\\stripeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A00F0D-CB07-4D7D-B39C-31E5AD63260E}|OnlineLearning.BL\\OnlineLearning.BL.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearning.bl\\services\\concretes\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A00F0D-CB07-4D7D-B39C-31E5AD63260E}|OnlineLearning.BL\\OnlineLearning.BL.csproj|solutionrelative:onlinelearning.bl\\services\\concretes\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearningsystem.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|solutionrelative:onlinelearningsystem.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearningsystem.mvc\\areas\\admin\\views\\payment\\updatestatus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|solutionrelative:onlinelearningsystem.mvc\\areas\\admin\\views\\payment\\updatestatus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DDAF58-2D32-46F9-9711-241AF5A5234F}|OnlineLearning.Core\\OnlineLearning.Core.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearning.core\\models\\statistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DDAF58-2D32-46F9-9711-241AF5A5234F}|OnlineLearning.Core\\OnlineLearning.Core.csproj|solutionrelative:onlinelearning.core\\models\\statistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearningsystem.mvc\\areas\\admin\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|solutionrelative:onlinelearningsystem.mvc\\areas\\admin\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearningsystem.mvc\\areas\\admin\\views\\contact\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|solutionrelative:onlinelearningsystem.mvc\\areas\\admin\\views\\contact\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A00F0D-CB07-4D7D-B39C-31E5AD63260E}|OnlineLearning.BL\\OnlineLearning.BL.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearning.bl\\validations\\contactvalidations\\contactdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A00F0D-CB07-4D7D-B39C-31E5AD63260E}|OnlineLearning.BL\\OnlineLearning.BL.csproj|solutionrelative:onlinelearning.bl\\validations\\contactvalidations\\contactdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A00F0D-CB07-4D7D-B39C-31E5AD63260E}|OnlineLearning.BL\\OnlineLearning.BL.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearning.bl\\services\\concretes\\contactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A00F0D-CB07-4D7D-B39C-31E5AD63260E}|OnlineLearning.BL\\OnlineLearning.BL.csproj|solutionrelative:onlinelearning.bl\\services\\concretes\\contactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A00F0D-CB07-4D7D-B39C-31E5AD63260E}|OnlineLearning.BL\\OnlineLearning.BL.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearning.bl\\dtos\\contactdtos\\contactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A00F0D-CB07-4D7D-B39C-31E5AD63260E}|OnlineLearning.BL\\OnlineLearning.BL.csproj|solutionrelative:onlinelearning.bl\\dtos\\contactdtos\\contactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DDAF58-2D32-46F9-9711-241AF5A5234F}|OnlineLearning.Core\\OnlineLearning.Core.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearning.core\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DDAF58-2D32-46F9-9711-241AF5A5234F}|OnlineLearning.Core\\OnlineLearning.Core.csproj|solutionrelative:onlinelearning.core\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearningsystem.mvc\\areas\\admin\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|solutionrelative:onlinelearningsystem.mvc\\areas\\admin\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A00F0D-CB07-4D7D-B39C-31E5AD63260E}|OnlineLearning.BL\\OnlineLearning.BL.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearning.bl\\profiles\\courseprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A00F0D-CB07-4D7D-B39C-31E5AD63260E}|OnlineLearning.BL\\OnlineLearning.BL.csproj|solutionrelative:onlinelearning.bl\\profiles\\courseprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A00F0D-CB07-4D7D-B39C-31E5AD63260E}|OnlineLearning.BL\\OnlineLearning.BL.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearning.bl\\services\\concretes\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A00F0D-CB07-4D7D-B39C-31E5AD63260E}|OnlineLearning.BL\\OnlineLearning.BL.csproj|solutionrelative:onlinelearning.bl\\services\\concretes\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A00F0D-CB07-4D7D-B39C-31E5AD63260E}|OnlineLearning.BL\\OnlineLearning.BL.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearning.bl\\services\\abstractions\\icontactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A00F0D-CB07-4D7D-B39C-31E5AD63260E}|OnlineLearning.BL\\OnlineLearning.BL.csproj|solutionrelative:onlinelearning.bl\\services\\abstractions\\icontactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearningsystem.mvc\\viewmodels\\homevms\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|solutionrelative:onlinelearningsystem.mvc\\viewmodels\\homevms\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearningsystem.mvc\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|solutionrelative:onlinelearningsystem.mvc\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearningsystem.mvc\\areas\\admin\\views\\contact\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|solutionrelative:onlinelearningsystem.mvc\\areas\\admin\\views\\contact\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearningsystem.mvc\\areas\\admin\\views\\contact\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|solutionrelative:onlinelearningsystem.mvc\\areas\\admin\\views\\contact\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearningsystem.mvc\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|solutionrelative:onlinelearningsystem.mvc\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearningsystem.mvc\\areas\\admin\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|solutionrelative:onlinelearningsystem.mvc\\areas\\admin\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearningsystem.mvc\\views\\course\\searchcourses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|solutionrelative:onlinelearningsystem.mvc\\views\\course\\searchcourses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearningsystem.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|solutionrelative:onlinelearningsystem.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearningsystem.mvc\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|solutionrelative:onlinelearningsystem.mvc\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearningsystem.mvc\\views\\payment\\paymentcancel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|solutionrelative:onlinelearningsystem.mvc\\views\\payment\\paymentcancel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearningsystem.mvc\\views\\payment\\paymentsuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|solutionrelative:onlinelearningsystem.mvc\\views\\payment\\paymentsuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearningsystem.mvc\\areas\\admin\\controllers\\statisticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|solutionrelative:onlinelearningsystem.mvc\\areas\\admin\\controllers\\statisticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearningsystem.mvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|solutionrelative:onlinelearningsystem.mvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearningsystem.mvc\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|solutionrelative:onlinelearningsystem.mvc\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A00F0D-CB07-4D7D-B39C-31E5AD63260E}|OnlineLearning.BL\\OnlineLearning.BL.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearning.bl\\services\\abstractions\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A00F0D-CB07-4D7D-B39C-31E5AD63260E}|OnlineLearning.BL\\OnlineLearning.BL.csproj|solutionrelative:onlinelearning.bl\\services\\abstractions\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearningsystem.mvc\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|solutionrelative:onlinelearningsystem.mvc\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearningsystem.mvc\\areas\\admin\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|solutionrelative:onlinelearningsystem.mvc\\areas\\admin\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearningsystem.mvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|solutionrelative:onlinelearningsystem.mvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearningsystem.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|solutionrelative:onlinelearningsystem.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearningsystem.mvc\\views\\teacher\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|solutionrelative:onlinelearningsystem.mvc\\views\\teacher\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearningsystem.mvc\\areas\\admin\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|solutionrelative:onlinelearningsystem.mvc\\areas\\admin\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B54CD2A8-2D46-49B7-B06D-F17ED2DF92EF}|OnlineLearning.DAL\\OnlineLearning.DAL.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearning.dal\\repositories\\abstractions\\course\\icoursereadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B54CD2A8-2D46-49B7-B06D-F17ED2DF92EF}|OnlineLearning.DAL\\OnlineLearning.DAL.csproj|solutionrelative:onlinelearning.dal\\repositories\\abstractions\\course\\icoursereadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B54CD2A8-2D46-49B7-B06D-F17ED2DF92EF}|OnlineLearning.DAL\\OnlineLearning.DAL.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearning.dal\\repositories\\implementations\\course\\coursereadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B54CD2A8-2D46-49B7-B06D-F17ED2DF92EF}|OnlineLearning.DAL\\OnlineLearning.DAL.csproj|solutionrelative:onlinelearning.dal\\repositories\\implementations\\course\\coursereadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B54CD2A8-2D46-49B7-B06D-F17ED2DF92EF}|OnlineLearning.DAL\\OnlineLearning.DAL.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearning.dal\\repositories\\implementations\\course\\coursewriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B54CD2A8-2D46-49B7-B06D-F17ED2DF92EF}|OnlineLearning.DAL\\OnlineLearning.DAL.csproj|solutionrelative:onlinelearning.dal\\repositories\\implementations\\course\\coursewriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearningsystem.mvc\\areas\\admin\\views\\course\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|solutionrelative:onlinelearningsystem.mvc\\areas\\admin\\views\\course\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A00F0D-CB07-4D7D-B39C-31E5AD63260E}|OnlineLearning.BL\\OnlineLearning.BL.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearning.bl\\services\\concretes\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A00F0D-CB07-4D7D-B39C-31E5AD63260E}|OnlineLearning.BL\\OnlineLearning.BL.csproj|solutionrelative:onlinelearning.bl\\services\\concretes\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DDAF58-2D32-46F9-9711-241AF5A5234F}|OnlineLearning.Core\\OnlineLearning.Core.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearning.core\\enums\\courseduration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DDAF58-2D32-46F9-9711-241AF5A5234F}|OnlineLearning.Core\\OnlineLearning.Core.csproj|solutionrelative:onlinelearning.core\\enums\\courseduration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DDAF58-2D32-46F9-9711-241AF5A5234F}|OnlineLearning.Core\\OnlineLearning.Core.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearning.core\\enums\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DDAF58-2D32-46F9-9711-241AF5A5234F}|OnlineLearning.Core\\OnlineLearning.Core.csproj|solutionrelative:onlinelearning.core\\enums\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DDAF58-2D32-46F9-9711-241AF5A5234F}|OnlineLearning.Core\\OnlineLearning.Core.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearning.core\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DDAF58-2D32-46F9-9711-241AF5A5234F}|OnlineLearning.Core\\OnlineLearning.Core.csproj|solutionrelative:onlinelearning.core\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A00F0D-CB07-4D7D-B39C-31E5AD63260E}|OnlineLearning.BL\\OnlineLearning.BL.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearning.bl\\validations\\coursevalidations\\courseupdatedtovalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A00F0D-CB07-4D7D-B39C-31E5AD63260E}|OnlineLearning.BL\\OnlineLearning.BL.csproj|solutionrelative:onlinelearning.bl\\validations\\coursevalidations\\courseupdatedtovalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearningsystem.mvc\\areas\\admin\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|solutionrelative:onlinelearningsystem.mvc\\areas\\admin\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearningsystem.mvc\\areas\\admin\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|solutionrelative:onlinelearningsystem.mvc\\areas\\admin\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A00F0D-CB07-4D7D-B39C-31E5AD63260E}|OnlineLearning.BL\\OnlineLearning.BL.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearning.bl\\dtos\\studentdtos\\studentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A00F0D-CB07-4D7D-B39C-31E5AD63260E}|OnlineLearning.BL\\OnlineLearning.BL.csproj|solutionrelative:onlinelearning.bl\\dtos\\studentdtos\\studentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DDAF58-2D32-46F9-9711-241AF5A5234F}|OnlineLearning.Core\\OnlineLearning.Core.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearning.core\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DDAF58-2D32-46F9-9711-241AF5A5234F}|OnlineLearning.Core\\OnlineLearning.Core.csproj|solutionrelative:onlinelearning.core\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearningsystem.mvc\\areas\\admin\\views\\student\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|solutionrelative:onlinelearningsystem.mvc\\areas\\admin\\views\\student\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearningsystem.mvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|solutionrelative:onlinelearningsystem.mvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearningsystem.mvc\\areas\\admin\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56B096B4-6E13-43A0-815B-CCB1EA3E0FF5}|OnlineLearningSystem.MVC\\OnlineLearningSystem.MVC.csproj|solutionrelative:onlinelearningsystem.mvc\\areas\\admin\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B54CD2A8-2D46-49B7-B06D-F17ED2DF92EF}|OnlineLearning.DAL\\OnlineLearning.DAL.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearning.dal\\migrations\\20250222165103_formassage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B54CD2A8-2D46-49B7-B06D-F17ED2DF92EF}|OnlineLearning.DAL\\OnlineLearning.DAL.csproj|solutionrelative:onlinelearning.dal\\migrations\\20250222165103_formassage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B54CD2A8-2D46-49B7-B06D-F17ED2DF92EF}|OnlineLearning.DAL\\OnlineLearning.DAL.csproj|c:\\users\\hp\\source\\repos\\onlinelearningsystem\\onlinelearning.dal\\migrations\\20250223055123_contactadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B54CD2A8-2D46-49B7-B06D-F17ED2DF92EF}|OnlineLearning.DAL\\OnlineLearning.DAL.csproj|solutionrelative:onlinelearning.dal\\migrations\\20250223055123_contactadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PaymentStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearning.Core\\Enums\\PaymentStatus.cs",
+              "RelativeDocumentMoniker": "OnlineLearning.Core\\Enums\\PaymentStatus.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearning.Core\\Enums\\PaymentStatus.cs",
+              "RelativeToolTip": "OnlineLearning.Core\\Enums\\PaymentStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T06:33:02.609Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "OnlineLearningSystem.MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "OnlineLearningSystem.MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAzwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T16:18:58.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "OnlineLearningSystem.MVC\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "OnlineLearningSystem.MVC\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwBsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T11:37:37.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "OnlineLearningSystem.MVC\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "OnlineLearningSystem.MVC\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwCUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T12:06:00.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "OnlineLearningSystem.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "OnlineLearningSystem.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAAFIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T15:41:53.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "OnlineLearningSystem.MVC\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "OnlineLearningSystem.MVC\\Controllers\\PaymentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:01:49.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PaymentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearning.BL\\DTOs\\PaymentDTO\\PaymentDTO.cs",
+              "RelativeDocumentMoniker": "OnlineLearning.BL\\DTOs\\PaymentDTO\\PaymentDTO.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearning.BL\\DTOs\\PaymentDTO\\PaymentDTO.cs",
+              "RelativeToolTip": "OnlineLearning.BL\\DTOs\\PaymentDTO\\PaymentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:18:39.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PaymentResult.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearning.Core\\Models\\PaymentResult.cs",
+              "RelativeDocumentMoniker": "OnlineLearning.Core\\Models\\PaymentResult.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearning.Core\\Models\\PaymentResult.cs",
+              "RelativeToolTip": "OnlineLearning.Core\\Models\\PaymentResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T14:57:24.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearning.Core\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "OnlineLearning.Core\\Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearning.Core\\Models\\Payment.cs",
+              "RelativeToolTip": "OnlineLearning.Core\\Models\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T14:57:28.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PaymentMethod.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearning.Core\\Enums\\PaymentMethod.cs",
+              "RelativeDocumentMoniker": "OnlineLearning.Core\\Enums\\PaymentMethod.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearning.Core\\Enums\\PaymentMethod.cs",
+              "RelativeToolTip": "OnlineLearning.Core\\Enums\\PaymentMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T06:33:00.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateCheckoutSession.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Views\\Payment\\CreateCheckoutSession.cshtml",
+              "RelativeDocumentMoniker": "OnlineLearningSystem.MVC\\Views\\Payment\\CreateCheckoutSession.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Views\\Payment\\CreateCheckoutSession.cshtml",
+              "RelativeToolTip": "OnlineLearningSystem.MVC\\Views\\Payment\\CreateCheckoutSession.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T15:23:54.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PaymentValidation.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearning.BL\\Validations\\PaymentValidations\\PaymentValidation.cs",
+              "RelativeDocumentMoniker": "OnlineLearning.BL\\Validations\\PaymentValidations\\PaymentValidation.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearning.BL\\Validations\\PaymentValidations\\PaymentValidation.cs",
+              "RelativeToolTip": "OnlineLearning.BL\\Validations\\PaymentValidations\\PaymentValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T06:46:45.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Areas\\Admin\\Views\\Payment\\Create.cshtml",
+              "RelativeDocumentMoniker": "OnlineLearningSystem.MVC\\Areas\\Admin\\Views\\Payment\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Areas\\Admin\\Views\\Payment\\Create.cshtml",
+              "RelativeToolTip": "OnlineLearningSystem.MVC\\Areas\\Admin\\Views\\Payment\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T15:18:11.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Areas\\Admin\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "OnlineLearningSystem.MVC\\Areas\\Admin\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Areas\\Admin\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "OnlineLearningSystem.MVC\\Areas\\Admin\\Controllers\\PaymentController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwCwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T14:53:22.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Areas\\Admin\\Views\\Payment\\Details.cshtml",
+              "RelativeDocumentMoniker": "OnlineLearningSystem.MVC\\Areas\\Admin\\Views\\Payment\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Areas\\Admin\\Views\\Payment\\Details.cshtml",
+              "RelativeToolTip": "OnlineLearningSystem.MVC\\Areas\\Admin\\Views\\Payment\\Details.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T15:21:33.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Areas\\Admin\\Views\\Payment\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineLearningSystem.MVC\\Areas\\Admin\\Views\\Payment\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Areas\\Admin\\Views\\Payment\\Index.cshtml",
+              "RelativeToolTip": "OnlineLearningSystem.MVC\\Areas\\Admin\\Views\\Payment\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T15:16:39.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StripeService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearning.BL\\Services\\Concretes\\StripeService.cs",
+              "RelativeDocumentMoniker": "OnlineLearning.BL\\Services\\Concretes\\StripeService.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearning.BL\\Services\\Concretes\\StripeService.cs",
+              "RelativeToolTip": "OnlineLearning.BL\\Services\\Concretes\\StripeService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACQAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T14:57:54.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearning.BL\\Services\\Concretes\\PaymentService.cs",
+              "RelativeDocumentMoniker": "OnlineLearning.BL\\Services\\Concretes\\PaymentService.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearning.BL\\Services\\Concretes\\PaymentService.cs",
+              "RelativeToolTip": "OnlineLearning.BL\\Services\\Concretes\\PaymentService.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T14:57:50.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UpdateStatus.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Areas\\Admin\\Views\\Payment\\UpdateStatus.cshtml",
+              "RelativeDocumentMoniker": "OnlineLearningSystem.MVC\\Areas\\Admin\\Views\\Payment\\UpdateStatus.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Areas\\Admin\\Views\\Payment\\UpdateStatus.cshtml",
+              "RelativeToolTip": "OnlineLearningSystem.MVC\\Areas\\Admin\\Views\\Payment\\UpdateStatus.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T15:20:46.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineLearningSystem.MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "OnlineLearningSystem.MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAAAMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T10:44:44.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Statistics.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearning.Core\\Models\\Statistics.cs",
+              "RelativeDocumentMoniker": "OnlineLearning.Core\\Models\\Statistics.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearning.Core\\Models\\Statistics.cs",
+              "RelativeToolTip": "OnlineLearning.Core\\Models\\Statistics.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T10:36:54.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Areas\\Admin\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineLearningSystem.MVC\\Areas\\Admin\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Areas\\Admin\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "OnlineLearningSystem.MVC\\Areas\\Admin\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T16:33:54.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Areas\\Admin\\Views\\Contact\\Details.cshtml",
+              "RelativeDocumentMoniker": "OnlineLearningSystem.MVC\\Areas\\Admin\\Views\\Contact\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Areas\\Admin\\Views\\Contact\\Details.cshtml",
+              "RelativeToolTip": "OnlineLearningSystem.MVC\\Areas\\Admin\\Views\\Contact\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T16:33:59.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ContactDTOValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearning.BL\\Validations\\ContactValidations\\ContactDTOValidator.cs",
+              "RelativeDocumentMoniker": "OnlineLearning.BL\\Validations\\ContactValidations\\ContactDTOValidator.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearning.BL\\Validations\\ContactValidations\\ContactDTOValidator.cs",
+              "RelativeToolTip": "OnlineLearning.BL\\Validations\\ContactValidations\\ContactDTOValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T16:34:22.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ContactService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearning.BL\\Services\\Concretes\\ContactService.cs",
+              "RelativeDocumentMoniker": "OnlineLearning.BL\\Services\\Concretes\\ContactService.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearning.BL\\Services\\Concretes\\ContactService.cs",
+              "RelativeToolTip": "OnlineLearning.BL\\Services\\Concretes\\ContactService.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAwwFMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T16:34:36.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IContactService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearning.BL\\Services\\Abstractions\\IContactService.cs",
+              "RelativeDocumentMoniker": "OnlineLearning.BL\\Services\\Abstractions\\IContactService.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearning.BL\\Services\\Abstractions\\IContactService.cs",
+              "RelativeToolTip": "OnlineLearning.BL\\Services\\Abstractions\\IContactService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T16:49:32.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ContactDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearning.BL\\DTOs\\ContactDTOs\\ContactDTO.cs",
+              "RelativeDocumentMoniker": "OnlineLearning.BL\\DTOs\\ContactDTOs\\ContactDTO.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearning.BL\\DTOs\\ContactDTOs\\ContactDTO.cs",
+              "RelativeToolTip": "OnlineLearning.BL\\DTOs\\ContactDTOs\\ContactDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T06:16:01.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearning.Core\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "OnlineLearning.Core\\Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearning.Core\\Models\\Contact.cs",
+              "RelativeToolTip": "OnlineLearning.Core\\Models\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T16:33:35.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Areas\\Admin\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "OnlineLearningSystem.MVC\\Areas\\Admin\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Areas\\Admin\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "OnlineLearningSystem.MVC\\Areas\\Admin\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowF8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:48:23.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CourseProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearning.BL\\Profiles\\CourseProfile.cs",
+              "RelativeDocumentMoniker": "OnlineLearning.BL\\Profiles\\CourseProfile.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearning.BL\\Profiles\\CourseProfile.cs",
+              "RelativeToolTip": "OnlineLearning.BL\\Profiles\\CourseProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T05:54:19.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "20250223055123_contactAdd.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearning.DAL\\Migrations\\20250223055123_contactAdd.cs",
+              "RelativeDocumentMoniker": "OnlineLearning.DAL\\Migrations\\20250223055123_contactAdd.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearning.DAL\\Migrations\\20250223055123_contactAdd.cs",
+              "RelativeToolTip": "OnlineLearning.DAL\\Migrations\\20250223055123_contactAdd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T05:51:23.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearning.BL\\Services\\Concretes\\CourseService.cs",
+              "RelativeDocumentMoniker": "OnlineLearning.BL\\Services\\Concretes\\CourseService.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearning.BL\\Services\\Concretes\\CourseService.cs",
+              "RelativeToolTip": "OnlineLearning.BL\\Services\\Concretes\\CourseService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAmwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T10:57:08.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "20250222165103_ForMassage.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearning.DAL\\Migrations\\20250222165103_ForMassage.cs",
+              "RelativeDocumentMoniker": "OnlineLearning.DAL\\Migrations\\20250222165103_ForMassage.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearning.DAL\\Migrations\\20250222165103_ForMassage.cs",
+              "RelativeToolTip": "OnlineLearning.DAL\\Migrations\\20250222165103_ForMassage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T16:51:03.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\ViewModels\\HomeVMs\\HomeVM.cs",
+              "RelativeDocumentMoniker": "OnlineLearningSystem.MVC\\ViewModels\\HomeVMs\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\ViewModels\\HomeVMs\\HomeVM.cs",
+              "RelativeToolTip": "OnlineLearningSystem.MVC\\ViewModels\\HomeVMs\\HomeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T12:27:07.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineLearningSystem.MVC\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "OnlineLearningSystem.MVC\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T12:08:27.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Areas\\Admin\\Views\\Contact\\Create.cshtml",
+              "RelativeDocumentMoniker": "OnlineLearningSystem.MVC\\Areas\\Admin\\Views\\Contact\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Areas\\Admin\\Views\\Contact\\Create.cshtml",
+              "RelativeToolTip": "OnlineLearningSystem.MVC\\Areas\\Admin\\Views\\Contact\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T16:33:23.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Areas\\Admin\\Views\\Contact\\Update.cshtml",
+              "RelativeDocumentMoniker": "OnlineLearningSystem.MVC\\Areas\\Admin\\Views\\Contact\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Areas\\Admin\\Views\\Contact\\Update.cshtml",
+              "RelativeToolTip": "OnlineLearningSystem.MVC\\Areas\\Admin\\Views\\Contact\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T16:33:50.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Views\\Course\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineLearningSystem.MVC\\Views\\Course\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Views\\Course\\Index.cshtml",
+              "RelativeToolTip": "OnlineLearningSystem.MVC\\Views\\Course\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T11:58:53.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Areas\\Admin\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "OnlineLearningSystem.MVC\\Areas\\Admin\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Areas\\Admin\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "OnlineLearningSystem.MVC\\Areas\\Admin\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:42:38.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "SearchCourses.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Views\\Course\\SearchCourses.cshtml",
+              "RelativeDocumentMoniker": "OnlineLearningSystem.MVC\\Views\\Course\\SearchCourses.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Views\\Course\\SearchCourses.cshtml",
+              "RelativeToolTip": "OnlineLearningSystem.MVC\\Views\\Course\\SearchCourses.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T11:54:51.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "OnlineLearningSystem.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "OnlineLearningSystem.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T11:42:44.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "OnlineLearningSystem.MVC\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "OnlineLearningSystem.MVC\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAUwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:25:46.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "PaymentCancel.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Views\\Payment\\PaymentCancel.cshtml",
+              "RelativeDocumentMoniker": "OnlineLearningSystem.MVC\\Views\\Payment\\PaymentCancel.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Views\\Payment\\PaymentCancel.cshtml",
+              "RelativeToolTip": "OnlineLearningSystem.MVC\\Views\\Payment\\PaymentCancel.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T15:25:25.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "PaymentSuccess.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Views\\Payment\\PaymentSuccess.cshtml",
+              "RelativeDocumentMoniker": "OnlineLearningSystem.MVC\\Views\\Payment\\PaymentSuccess.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Views\\Payment\\PaymentSuccess.cshtml",
+              "RelativeToolTip": "OnlineLearningSystem.MVC\\Views\\Payment\\PaymentSuccess.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T15:25:05.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "StatisticsController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Areas\\Admin\\Controllers\\StatisticsController.cs",
+              "RelativeDocumentMoniker": "OnlineLearningSystem.MVC\\Areas\\Admin\\Controllers\\StatisticsController.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Areas\\Admin\\Controllers\\StatisticsController.cs",
+              "RelativeToolTip": "OnlineLearningSystem.MVC\\Areas\\Admin\\Controllers\\StatisticsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:19:43.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "OnlineLearningSystem.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "OnlineLearningSystem.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:15:28.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "OnlineLearningSystem.MVC\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "OnlineLearningSystem.MVC\\Controllers\\AboutController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T12:06:46.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Views\\About\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineLearningSystem.MVC\\Views\\About\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Views\\About\\Index.cshtml",
+              "RelativeToolTip": "OnlineLearningSystem.MVC\\Views\\About\\Index.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T11:56:21.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Areas\\Admin\\Views\\Course\\Create.cshtml",
+              "RelativeDocumentMoniker": "OnlineLearningSystem.MVC\\Areas\\Admin\\Views\\Course\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Areas\\Admin\\Views\\Course\\Create.cshtml",
+              "RelativeToolTip": "OnlineLearningSystem.MVC\\Areas\\Admin\\Views\\Course\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T12:28:31.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ICourseService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearning.BL\\Services\\Abstractions\\ICourseService.cs",
+              "RelativeDocumentMoniker": "OnlineLearning.BL\\Services\\Abstractions\\ICourseService.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearning.BL\\Services\\Abstractions\\ICourseService.cs",
+              "RelativeToolTip": "OnlineLearning.BL\\Services\\Abstractions\\ICourseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T11:34:28.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "OnlineLearningSystem.MVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "OnlineLearningSystem.MVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T12:27:30.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineLearningSystem.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "OnlineLearningSystem.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T12:28:27.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Areas\\Admin\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "OnlineLearningSystem.MVC\\Areas\\Admin\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Areas\\Admin\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "OnlineLearningSystem.MVC\\Areas\\Admin\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwBgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T10:56:50.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Views\\Teacher\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineLearningSystem.MVC\\Views\\Teacher\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Views\\Teacher\\Index.cshtml",
+              "RelativeToolTip": "OnlineLearningSystem.MVC\\Views\\Teacher\\Index.cshtml",
+              "ViewState": "AgIAACwAAAAAAAAAAAAmwEMAAAA5AQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T12:00:22.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ICourseReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearning.DAL\\Repositories\\Abstractions\\Course\\ICourseReadRepository.cs",
+              "RelativeDocumentMoniker": "OnlineLearning.DAL\\Repositories\\Abstractions\\Course\\ICourseReadRepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearning.DAL\\Repositories\\Abstractions\\Course\\ICourseReadRepository.cs",
+              "RelativeToolTip": "OnlineLearning.DAL\\Repositories\\Abstractions\\Course\\ICourseReadRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T11:27:29.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "CourseReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearning.DAL\\Repositories\\Implementations\\Course\\CourseReadRepository.cs",
+              "RelativeDocumentMoniker": "OnlineLearning.DAL\\Repositories\\Implementations\\Course\\CourseReadRepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearning.DAL\\Repositories\\Implementations\\Course\\CourseReadRepository.cs",
+              "RelativeToolTip": "OnlineLearning.DAL\\Repositories\\Implementations\\Course\\CourseReadRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T11:26:51.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "CourseWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearning.DAL\\Repositories\\Implementations\\Course\\CourseWriteRepository.cs",
+              "RelativeDocumentMoniker": "OnlineLearning.DAL\\Repositories\\Implementations\\Course\\CourseWriteRepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearning.DAL\\Repositories\\Implementations\\Course\\CourseWriteRepository.cs",
+              "RelativeToolTip": "OnlineLearning.DAL\\Repositories\\Implementations\\Course\\CourseWriteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T11:26:49.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "CourseUpdateDTOValidation.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearning.BL\\Validations\\CourseValidations\\CourseUpdateDTOValidation.cs",
+              "RelativeDocumentMoniker": "OnlineLearning.BL\\Validations\\CourseValidations\\CourseUpdateDTOValidation.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearning.BL\\Validations\\CourseValidations\\CourseUpdateDTOValidation.cs",
+              "RelativeToolTip": "OnlineLearning.BL\\Validations\\CourseValidations\\CourseUpdateDTOValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T10:58:19.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearning.Core\\Enums\\Grade.cs",
+              "RelativeDocumentMoniker": "OnlineLearning.Core\\Enums\\Grade.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearning.Core\\Enums\\Grade.cs",
+              "RelativeToolTip": "OnlineLearning.Core\\Enums\\Grade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T10:59:13.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Areas\\Admin\\Views\\Course\\Update.cshtml",
+              "RelativeDocumentMoniker": "OnlineLearningSystem.MVC\\Areas\\Admin\\Views\\Course\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Areas\\Admin\\Views\\Course\\Update.cshtml",
+              "RelativeToolTip": "OnlineLearningSystem.MVC\\Areas\\Admin\\Views\\Course\\Update.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T10:56:38.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "CourseDuration.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearning.Core\\Enums\\CourseDuration.cs",
+              "RelativeDocumentMoniker": "OnlineLearning.Core\\Enums\\CourseDuration.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearning.Core\\Enums\\CourseDuration.cs",
+              "RelativeToolTip": "OnlineLearning.Core\\Enums\\CourseDuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T11:01:20.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "TeacherService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearning.BL\\Services\\Concretes\\TeacherService.cs",
+              "RelativeDocumentMoniker": "OnlineLearning.BL\\Services\\Concretes\\TeacherService.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearning.BL\\Services\\Concretes\\TeacherService.cs",
+              "RelativeToolTip": "OnlineLearning.BL\\Services\\Concretes\\TeacherService.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T11:04:37.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearning.Core\\Enums\\Gender.cs",
+              "RelativeDocumentMoniker": "OnlineLearning.Core\\Enums\\Gender.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearning.Core\\Enums\\Gender.cs",
+              "RelativeToolTip": "OnlineLearning.Core\\Enums\\Gender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T11:01:16.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Areas\\Admin\\Views\\Course\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineLearningSystem.MVC\\Areas\\Admin\\Views\\Course\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Areas\\Admin\\Views\\Course\\Index.cshtml",
+              "RelativeToolTip": "OnlineLearningSystem.MVC\\Areas\\Admin\\Views\\Course\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T10:56:37.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearning.Core\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "OnlineLearning.Core\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearning.Core\\Models\\Student.cs",
+              "RelativeToolTip": "OnlineLearning.Core\\Models\\Student.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T10:53:00.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "StudentCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearning.BL\\DTOs\\StudentDTOs\\StudentCreateDTO.cs",
+              "RelativeDocumentMoniker": "OnlineLearning.BL\\DTOs\\StudentDTOs\\StudentCreateDTO.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearning.BL\\DTOs\\StudentDTOs\\StudentCreateDTO.cs",
+              "RelativeToolTip": "OnlineLearning.BL\\DTOs\\StudentDTOs\\StudentCreateDTO.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T10:52:38.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Areas\\Admin\\Views\\Student\\Update.cshtml",
+              "RelativeDocumentMoniker": "OnlineLearningSystem.MVC\\Areas\\Admin\\Views\\Student\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Areas\\Admin\\Views\\Student\\Update.cshtml",
+              "RelativeToolTip": "OnlineLearningSystem.MVC\\Areas\\Admin\\Views\\Student\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T10:45:23.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "OnlineLearningSystem.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "OnlineLearningSystem.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T10:45:21.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Areas\\Admin\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineLearningSystem.MVC\\Areas\\Admin\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Areas\\Admin\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "OnlineLearningSystem.MVC\\Areas\\Admin\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T10:40:41.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Areas\\Admin\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "OnlineLearningSystem.MVC\\Areas\\Admin\\Views\\Student\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\Areas\\Admin\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "OnlineLearningSystem.MVC\\Areas\\Admin\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T10:37:37.736Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

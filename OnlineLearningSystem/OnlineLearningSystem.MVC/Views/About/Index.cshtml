@@ -1,0 +1,95 @@
+﻿@{
+    Layout = "_Layout";
+}
+
+<!-- About Page Start -->
+<section class="about" id="about">
+    <div class="container">
+        <div class="row">
+            <div class="col-3">
+                <!-- Kiçiltmək üçün 4-dən 3-ə dəyişdirildi -->
+                <div class="wrap">
+                    <a asp-controller="Contact" asp-action="SendMessage" class="icon">
+                        <i class="fa-regular fa-envelope"></i>
+                    </a>
+                    <h3>Get Quote</h3>
+                    <p>Find the price of your ideal course</p>
+                </div>
+            </div>
+            <div class="col-3">
+                <!-- Kiçiltmək üçün 4-dən 3-ə dəyişdirildi -->
+                <div class="wrap">
+                    <a asp-controller="Contact" asp-action="SendMessage" class="icon">
+                        <i class="fa-solid fa-headphones"></i>
+                    </a>
+                    <h3>Ask A Question</h3>
+                    <p>Not sure what you need? Ask an Advisor</p>
+                </div>
+            </div>
+            <div class="col-3">
+                <!-- Kiçiltmək üçün 4-dən 3-ə dəyişdirildi -->
+                <div class="wrap">
+                    <a asp-area="Admin" asp-controller="Account" asp-action="Register" class="icon">
+                        <i class="fa-regular fa-circle-user"></i>
+                    </a>
+                    <h3>Join Today</h3>
+                    <p>Signup Now for a Free 30 Day Trial</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<!-- Find Course Section Start -->
+<section class="feature" id="feature">
+    <div class="container">
+        <div class="row">
+            <div class="col-3" style="background: #F36371; color: #fff;">
+                <div class="wrap">
+                    <h3>Kurs haqqında</h3>
+                    <p class="text">
+                        Kurs, təcrübəli mütəxəssislər tərəfindən hazırlanan, təcrübə ilə zəngin,
+                        asan başa düşülən və tətbiqə yönəlmiş dərslərlə təqdim edilir.
+                    </p>
+                    <a href="#">Ətraflı</a>
+                </div>
+            </div>
+            <div class="col-3" style="background: #E5B14C; color: #fff;">
+                <div class="wrap">
+                    <h3>Açılış saatları</h3>
+                    <div class="time">
+                        <p>Həftə içi <span>8.00 - 22.00</span></p>
+                        <p>Şənbə <span>8.00 - 18.00</span></p>
+                        <p>Bazar <span>8.00 - 18.00</span></p>
+                    </div>
+                    <a href="#">Ətraflı</a>
+                </div>
+            </div>
+            <div class="col-6" style="background: #098; color: #fff;">
+                <div class="wrap">
+                    <h3>Kurs Seç</h3>
+                    <form>
+                        <div class="input-site">
+                            <div class="w-50">
+                                <select id="course">
+                                    <option value="">Kurs Seç</option>
+                                    <option value="WebDesign">Web Design</option>
+                                    <option value="UIUX">UI & UX Design</option>
+                                    <option value="DigitalMarketing">Digital Marketing</option>
+                                </select>
+                                <input type="number" id="number" placeholder="Phone">
+                                <input type="date" id="date">
+                            </div>
+                            <div class="w-50">
+                                <input type="text" id="name" placeholder="Name">
+                                <input type="email" id="email" placeholder="Email">
+                                <input type="submit" value="Send Message">
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

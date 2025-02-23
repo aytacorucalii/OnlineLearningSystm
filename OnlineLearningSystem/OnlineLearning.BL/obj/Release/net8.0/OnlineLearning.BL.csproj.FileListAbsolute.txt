@@ -1,0 +1,17 @@
+C:\Users\Hp\source\repos\OnlineLearningSystem\OnlineLearning.BL\bin\Release\net8.0\OnlineLearning.BL.deps.json
+C:\Users\Hp\source\repos\OnlineLearningSystem\OnlineLearning.BL\bin\Release\net8.0\OnlineLearning.BL.dll
+C:\Users\Hp\source\repos\OnlineLearningSystem\OnlineLearning.BL\bin\Release\net8.0\OnlineLearning.BL.pdb
+C:\Users\Hp\source\repos\OnlineLearningSystem\OnlineLearning.BL\bin\Release\net8.0\OnlineLearning.Core.dll
+C:\Users\Hp\source\repos\OnlineLearningSystem\OnlineLearning.BL\bin\Release\net8.0\OnlineLearning.DAL.dll
+C:\Users\Hp\source\repos\OnlineLearningSystem\OnlineLearning.BL\bin\Release\net8.0\OnlineLearning.DAL.pdb
+C:\Users\Hp\source\repos\OnlineLearningSystem\OnlineLearning.BL\bin\Release\net8.0\OnlineLearning.Core.pdb
+C:\Users\Hp\source\repos\OnlineLearningSystem\OnlineLearning.BL\obj\Release\net8.0\OnlineLearning.BL.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\OnlineLearningSystem\OnlineLearning.BL\obj\Release\net8.0\OnlineLearning.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\OnlineLearningSystem\OnlineLearning.BL\obj\Release\net8.0\OnlineLearning.BL.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\OnlineLearningSystem\OnlineLearning.BL\obj\Release\net8.0\OnlineLearning.BL.AssemblyInfo.cs
+C:\Users\Hp\source\repos\OnlineLearningSystem\OnlineLearning.BL\obj\Release\net8.0\OnlineLearning.BL.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\OnlineLearningSystem\OnlineLearning.BL\obj\Release\net8.0\OnlineLe.E6F50C0E.Up2Date
+C:\Users\Hp\source\repos\OnlineLearningSystem\OnlineLearning.BL\obj\Release\net8.0\OnlineLearning.BL.dll
+C:\Users\Hp\source\repos\OnlineLearningSystem\OnlineLearning.BL\obj\Release\net8.0\refint\OnlineLearning.BL.dll
+C:\Users\Hp\source\repos\OnlineLearningSystem\OnlineLearning.BL\obj\Release\net8.0\OnlineLearning.BL.pdb
+C:\Users\Hp\source\repos\OnlineLearningSystem\OnlineLearning.BL\obj\Release\net8.0\ref\OnlineLearning.BL.dll

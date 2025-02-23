@@ -1,0 +1,65 @@
+﻿@model StudentUpdateDTO
+
+@{
+    SelectList courses = ViewData["Courses"] as SelectList;
+}
+
+    <div class="container-fluid">
+    <div class="card shadow mb-4">
+        <div class="card-header py-3">
+            <h6 class="m-0 font-weight-bold text-primary">Tələbə Məlumatlarını Redaktə Et</h6>
+        </div>
+        <div class="card-body">
+            <form asp-action="Update" method="post" enctype="multipart/form-data">
+                <input type="hidden" asp-for="Id" />
+
+                <div class="form-group">
+                    <label asp-for="Name">Ad</label>
+                    <input asp-for="Name" class="form-control" placeholder="Ad daxil edin" required />
+                    <span class="text-danger" asp-validation-for="Name"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Surname">Soyad</label>
+                    <input asp-for="Surname" class="form-control" placeholder="Soyad daxil edin" required />
+                    <span class="text-danger" asp-validation-for="Surname"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="EnrollmentDate">Qeydiyyat Tarixi</label>
+                    <input asp-for="EnrollmentDate" class="form-control" type="date" required />
+                    <span class="text-danger" asp-validation-for="EnrollmentDate"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Grade">Dərəcə</label>
+                    <select asp-for="Grade" asp-items="Html.GetEnumSelectList<Grade>()" class="form-control"></select>
+                    <span class="text-danger" asp-validation-for="Grade"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Gender">Cinsiyyət</label>
+                    <select asp-for="Gender" asp-items="Html.GetEnumSelectList<Gender>()" class="form-control">
+                        <option value="">Seçilməyib</option>
+                    </select>
+                    <span class="text-danger" asp-validation-for="Gender"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Image">Şəkil Yüklə</label>
+                    <input asp-for="Image" class="form-control-file" type="file" />
+                    <span class="text-danger" asp-validation-for="Image"></span>
+                </div>
+                <div class="mb-3">
+                    <select class="custom-select" asp-items="courses" asp-for="Courses">
+                        <option selected>Select Course</option>
+                    </select>
+                    <span class="text-danger" asp-validation-for="Courses"></span>
+                </div>
+
+                <button type="submit" class="btn btn-primary">Dəyişiklikləri Yadda Saxla</button>
+                <a asp-controller="Student" asp-action="Index" class="btn btn-secondary">Geri Qayıt</a>
+            </form>
+        </div>
+    </div>
+</div>

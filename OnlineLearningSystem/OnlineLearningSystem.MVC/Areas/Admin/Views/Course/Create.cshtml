@@ -1,0 +1,55 @@
+﻿@model CourseCreateDTO
+@{
+    SelectList teachers = ViewData["Teachers"] as SelectList;
+}
+
+<div class="container-fluid"> 
+    <div class="card shadow mb-4">
+        <div class="card-header py-3">
+            <h6 class="m-0 font-weight-bold text-primary">Create New Course</h6>
+        </div>
+        <div class="card-body">
+            <form asp-action="Create" class="container" method="post" enctype="multipart/form-data">
+
+                <div class="form-group">
+                    <label asp-for="CourseName">Course Name</label>
+                    <input asp-for="CourseName" class="form-control" placeholder="Enter course name" required />
+                    <span class="text-danger" asp-validation-for="CourseName"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Description">Course Description</label>
+                    <textarea asp-for="Description" class="form-control" placeholder="Enter course description" required></textarea>
+                    <span class="text-danger" asp-validation-for="Description"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Price">Course Price</label>
+                    <input asp-for="Price" class="form-control" type="number" step="0.01" placeholder="Enter course price" required />
+                    <span class="text-danger" asp-validation-for="Price"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Duration">Duration</label>
+                    <select asp-for="Duration" asp-items="Html.GetEnumSelectList<CourseDuration>()" class="form-control" required>
+                        <option value="">Select Duration</option>
+                    </select>
+                    <span class="text-danger" asp-validation-for="Duration"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Image">Course Image</label>
+                    <input asp-for="Image" class="form-control-file" type="file" />
+                    <span class="text-danger" asp-validation-for="Image"></span>
+                </div>
+                <p class="text-danger text-center">@Html.ValidationMessage("CustomError")</p>
+                <!-- Button and Back Link for consistency -->
+                <div class="form-group">
+                    <button type="submit" class="btn btn-primary">Create Course</button>
+                    <a asp-controller="Course" asp-action="Index" class="btn btn-secondary">Back</a>
+                </div>
+
+            </form>
+        </div>
+    </div>
+</div>

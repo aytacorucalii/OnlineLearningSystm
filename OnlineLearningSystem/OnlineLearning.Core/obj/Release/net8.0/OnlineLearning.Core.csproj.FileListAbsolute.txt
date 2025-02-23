@@ -1,0 +1,12 @@
+C:\Users\Hp\source\repos\OnlineLearningSystem\OnlineLearning.Core\bin\Release\net8.0\OnlineLearning.Core.deps.json
+C:\Users\Hp\source\repos\OnlineLearningSystem\OnlineLearning.Core\bin\Release\net8.0\OnlineLearning.Core.dll
+C:\Users\Hp\source\repos\OnlineLearningSystem\OnlineLearning.Core\bin\Release\net8.0\OnlineLearning.Core.pdb
+C:\Users\Hp\source\repos\OnlineLearningSystem\OnlineLearning.Core\obj\Release\net8.0\OnlineLearning.Core.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\OnlineLearningSystem\OnlineLearning.Core\obj\Release\net8.0\OnlineLearning.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\OnlineLearningSystem\OnlineLearning.Core\obj\Release\net8.0\OnlineLearning.Core.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\OnlineLearningSystem\OnlineLearning.Core\obj\Release\net8.0\OnlineLearning.Core.AssemblyInfo.cs
+C:\Users\Hp\source\repos\OnlineLearningSystem\OnlineLearning.Core\obj\Release\net8.0\OnlineLearning.Core.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\OnlineLearningSystem\OnlineLearning.Core\obj\Release\net8.0\OnlineLearning.Core.dll
+C:\Users\Hp\source\repos\OnlineLearningSystem\OnlineLearning.Core\obj\Release\net8.0\refint\OnlineLearning.Core.dll
+C:\Users\Hp\source\repos\OnlineLearningSystem\OnlineLearning.Core\obj\Release\net8.0\OnlineLearning.Core.pdb
+C:\Users\Hp\source\repos\OnlineLearningSystem\OnlineLearning.Core\obj\Release\net8.0\ref\OnlineLearning.Core.dll

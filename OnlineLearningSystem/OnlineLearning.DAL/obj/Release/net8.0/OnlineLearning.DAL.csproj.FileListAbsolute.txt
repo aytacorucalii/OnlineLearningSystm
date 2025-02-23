@@ -1,0 +1,17 @@
+C:\Users\Hp\source\repos\OnlineLearningSystem\OnlineLearning.DAL\bin\Release\net8.0\OnlineLearning.DAL.deps.json
+C:\Users\Hp\source\repos\OnlineLearningSystem\OnlineLearning.DAL\bin\Release\net8.0\OnlineLearning.DAL.runtimeconfig.json
+C:\Users\Hp\source\repos\OnlineLearningSystem\OnlineLearning.DAL\bin\Release\net8.0\OnlineLearning.DAL.dll
+C:\Users\Hp\source\repos\OnlineLearningSystem\OnlineLearning.DAL\bin\Release\net8.0\OnlineLearning.DAL.pdb
+C:\Users\Hp\source\repos\OnlineLearningSystem\OnlineLearning.DAL\bin\Release\net8.0\OnlineLearning.Core.dll
+C:\Users\Hp\source\repos\OnlineLearningSystem\OnlineLearning.DAL\bin\Release\net8.0\OnlineLearning.Core.pdb
+C:\Users\Hp\source\repos\OnlineLearningSystem\OnlineLearning.DAL\obj\Release\net8.0\OnlineLearning.DAL.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\OnlineLearningSystem\OnlineLearning.DAL\obj\Release\net8.0\OnlineLearning.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\OnlineLearningSystem\OnlineLearning.DAL\obj\Release\net8.0\OnlineLearning.DAL.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\OnlineLearningSystem\OnlineLearning.DAL\obj\Release\net8.0\OnlineLearning.DAL.AssemblyInfo.cs
+C:\Users\Hp\source\repos\OnlineLearningSystem\OnlineLearning.DAL\obj\Release\net8.0\OnlineLearning.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\OnlineLearningSystem\OnlineLearning.DAL\obj\Release\net8.0\OnlineLe.9F683178.Up2Date
+C:\Users\Hp\source\repos\OnlineLearningSystem\OnlineLearning.DAL\obj\Release\net8.0\OnlineLearning.DAL.dll
+C:\Users\Hp\source\repos\OnlineLearningSystem\OnlineLearning.DAL\obj\Release\net8.0\refint\OnlineLearning.DAL.dll
+C:\Users\Hp\source\repos\OnlineLearningSystem\OnlineLearning.DAL\obj\Release\net8.0\OnlineLearning.DAL.pdb
+C:\Users\Hp\source\repos\OnlineLearningSystem\OnlineLearning.DAL\obj\Release\net8.0\OnlineLearning.DAL.genruntimeconfig.cache
+C:\Users\Hp\source\repos\OnlineLearningSystem\OnlineLearning.DAL\obj\Release\net8.0\ref\OnlineLearning.DAL.dll

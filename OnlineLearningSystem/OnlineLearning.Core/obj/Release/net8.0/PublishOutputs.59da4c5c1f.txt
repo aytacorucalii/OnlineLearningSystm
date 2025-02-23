@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\OnlineLearningSystem\publish\OnlineLearning.Core.dll
+C:\Users\Hp\source\repos\OnlineLearningSystem\publish\OnlineLearning.Core.deps.json
+C:\Users\Hp\source\repos\OnlineLearningSystem\publish\OnlineLearning.Core.pdb
+C:\Users\Hp\source\repos\OnlineLearningSystem\publish\Newtonsoft.Json.dll
+C:\Users\Hp\source\repos\OnlineLearningSystem\publish\Stripe.net.dll
+C:\Users\Hp\source\repos\OnlineLearningSystem\publish\System.Configuration.ConfigurationManager.dll
+C:\Users\Hp\source\repos\OnlineLearningSystem\publish\System.Diagnostics.EventLog.dll
+C:\Users\Hp\source\repos\OnlineLearningSystem\publish\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hp\source\repos\OnlineLearningSystem\publish\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Hp\source\repos\OnlineLearningSystem\publish\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll

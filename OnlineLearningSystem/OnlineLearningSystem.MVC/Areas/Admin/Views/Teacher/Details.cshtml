@@ -1,0 +1,40 @@
+﻿@model Teacher
+
+
+<div class="container-fluid">
+    <div class="card shadow mb-4">
+        <div class="card-header py-3">
+            <h6 class="m-0 font-weight-bold text-primary">Müəllim Təfərrüatı</h6>
+        </div>
+        <div class="card-body">
+            <div class="row">
+                <div class="col-md-4">
+                    @if (!string.IsNullOrEmpty(Model.ImgUrl))
+                    {
+                        <img style="width: 200px" src="~/uploads/teacher/@Model.ImgUrl" />
+                    }
+                   
+                </div>
+                <div class="col-md-8">
+                    <h5>Ad: @Model.Name @Model.Surname</h5>
+                    <p><strong>Fənn:</strong> @Model.Subject</p>
+                    <p><strong>İş təcrübəsi:</strong> @Model.ExperienceYears il</p>
+                    <p><strong>Maaş:</strong> @Model.Salary₼</p>
+                    <p><strong>Cinsiyyət:</strong> @Model.Gender?.ToString()</p>
+
+                    <h6>Kurslar:</h6>
+                    <ul>
+                        @foreach (var course in Model.Courses)
+                        {
+                            <li>@course.CourseName</li>
+                        }
+                    </ul>
+
+                    <div class="mt-3">
+                        <a class="btn btn-primary" asp-controller="Teacher" asp-action="Index">Geri qayıt</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

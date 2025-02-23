@@ -1,0 +1,36 @@
+﻿@model ICollection<ContactDTO>
+
+@{
+    ViewData["Title"] = "Message";
+}
+
+<h2>Messages</h2>
+<a asp-action="Create" class="btn btn-primary mb-3">Add Message</a>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>User Name</th>
+            <th>Comment</th>
+            <th>Rating</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var message in Model)
+        {
+            <tr>
+                <td>@message.UserName</td>
+                <td>@message.Comment</td>
+                <td>@message.Rating</td>
+                <td>
+                    <a asp-controller="Contact" asp-action="Details" asp-route-id="@message.Id" class="btn btn-info mx-1">Details</a>
+                    <a asp-controller="Contact" asp-action="Update" asp-route-id="@message.Id" class="btn btn-warning mx-1">Update</a>
+                    <form asp-action="Delete" asp-route-id="@message.Id" method="post" class="d-inline">
+                        <button type="submit" class="btn btn-danger mx-1">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

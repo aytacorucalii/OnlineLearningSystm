@@ -1,0 +1,22 @@
+﻿@model PaymentDTO
+
+@{
+    ViewData["Title"] = "Ödəniş Statusunu Yenilə";
+}
+
+<h1>Ödəniş Statusunu Yenilə</h1>
+
+<form asp-action="UpdateStatus" method="post">
+    <input type="hidden" name="Id" value="@Model.Id" />
+    <div class="form-group">
+        <label for="Status">Status</label>
+        <select class="form-control" id="Status" name="Status">
+            <option value="Completed">Tamamlanmış</option>
+            <option value="Failed">Uğursuz</option>
+        </select>
+    </div>
+
+    <button type="submit" class="btn btn-success">Yenilə</button>
+</form>
+
+<a href="@Url.Action("Index")" class="btn btn-secondary mt-2">Geri</a>

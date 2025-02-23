@@ -1,0 +1,70 @@
+﻿@if (Model.Statistics != null)
+{
+	<!-- counting section start -->
+	@foreach (var item in Model.Statistics)
+	{
+		<section class="count" id="count">
+			<div class="container">
+				<h2 class="title">LPI - System In Number</h2>
+				<div class="count-box">
+					<div class="item">
+						<i class="fa-regular fa-user"></i>
+						<div>@item.StudentCount</div>
+						<p>Students</p>
+					</div>
+					<div class="item">
+						<i class="fa-regular fa-folder-closed"></i>
+						<div>@item.CourseCount</div>
+						<p>Courses</p>
+					</div>
+					<div class="item">
+						<i class="fa-solid fa-briefcase"></i>
+						<div>12</div>
+						<p>Language Trainings</p>
+					</div>
+					<div class="item">
+						<i class="fa-solid fa-graduation-cap"></i>
+						<div>@item.TeacherCount</div>
+						<p>Teachers</p>
+					</div>
+					<div class="item">
+						<i class="fa-solid fa-school"></i>
+						<div>8</div>
+						<p>Branches</p>
+					</div>
+				</div>
+			</div>
+		</section>
+	}
+}
+
+@if (Model.Teachers.Count > 0)
+{
+	<section class="faculty" id="faculty">
+		<div class="container">
+			<h2 class="title">Teachers</h2>
+			<div class="row">
+				@foreach (TeacherViewItemDTO teacher in Model.Teachers)
+				{
+					<div class="col-3">
+						<div class="card">
+							<!-- Şəkili düzgün yerə yerləşdirmək üçün class əlavə edirik -->
+							<img src="~/uploads/teacher/@teacher.ImgUrl" alt="explore image" class="profile-card">
+							<div class="card-body">
+								<h3>@teacher.Name</h3>
+								<p>@teacher.Subject</p>
+							</div>
+						</div>
+					</div>
+				}
+			</div>
+		</div>
+	</section>
+}
+
+<section class="conteact" id="contact">
+	<h2 class="title">Contact <span>With</span> US</h2>
+	<div class="wrap" style="margin-bottom: 20px;">
+		<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14697.42780352853!2d90.83236210280873!3d22.937077667737444!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3754c115ae74abdb%3A0x741b1021ac347066!2sLakshmipur%20Polytechnic%20Institute!5e0!3m2!1sen!2sbd!4v1734191761196!5m2!1sen!2sbd" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+	</div>
+</section>

@@ -1,0 +1,35 @@
+﻿@model List<PaymentDTO>
+
+<h1>Ödənişlər</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Ödənişin Statusu</th>
+            <th>Ödəniş Tarixi</th>
+            <th>Əməliyyatlar</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var payment in Model)
+        {
+            <tr>
+                <td>@payment.Id</td>
+                <td>@payment.Status.ToString()</td> <!-- Enum'u string'e çeviririk -->
+                <td>@payment.PaymentDate</td>
+                <td>
+                    <a href="@Url.Action("Details", new { id = payment.Id })" class="btn btn-info">Detallar</a>
+                    <a href="@Url.Action("UpdateStatus", new { id = payment.Id, status = payment.Status == PaymentStatus.Completed ? PaymentStatus.Failed : PaymentStatus.Completed })" class="btn btn-warning">
+                        @((payment.Status == PaymentStatus.Completed) ? "Yenilə - Failed" : "Yenilə - Completed")
+                    </a>
+                    <form action="@Url.Action("Delete", new { id = payment.Id })" method="post" style="display:inline;">
+                        <button type="submit" class="btn btn-danger">Sil</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a href="@Url.Action("Create")" class="btn btn-primary">Yeni Ödəniş Yarat</a>

@@ -1,0 +1,71 @@
+﻿@model Course
+
+<div class="container mt-4">
+    <div class="card shadow-lg">
+        <div class="card-header bg-primary text-white">
+            <h4 class="m-0">Course Details</h4>
+        </div>
+        <div class="card-body">
+            <div class="row">
+                <div class="col-md-4">
+                    @if (!string.IsNullOrEmpty(Model.ImgUrl))
+                    {
+                        <img style="width: 200px" src="~/uploads/course/@Model.ImgUrl" />
+                    }
+                    else
+                    {
+                        <p class="text-muted">No Image Available</p>
+                    }
+                </div>
+                <div class="col-md-8">
+                    <p><strong>Course Name:</strong> @Model.CourseName</p>
+                    <p><strong>Description:</strong> @Model.Description</p>
+                    <p><strong>Price:</strong> $@Model.Price</p>
+                    <p><strong>Rating:</strong> @Model.Rating (@Model.RatingCount messages)</p>
+                    <p><strong>Duration:</strong> @(Model.Duration.HasValue ? Model.Duration.ToString() : "Not specified")</p>
+                    <p><strong>Created At:</strong> @Model.CreatedAt.ToString("dd/MM/yyyy HH:mm")</p>
+
+                    @if (Model.UpdatedAt != null)
+                    {
+                        <p><strong>Last Updated:</strong> @Model.UpdatedAt?.ToString("dd/MM/yyyy HH:mm")</p>
+                    }
+
+                    <p><strong>Teacher:</strong> @Model.Teacher?.Name</p>
+                </div>
+            </div>
+
+            <hr>
+
+            @if (Model.StudentCourses?.Any() == true)
+            {
+                <h5>Enrolled Students</h5>
+                <table class="table table-bordered">
+                    <thead>
+                        <tr>
+                            <th>#</th>
+                            <th>Student Name</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var studentCourse in Model.StudentCourses)
+                        {
+                            <tr>
+                                <td>@studentCourse.StudentId</td>
+                                <td>@studentCourse.Student?.Name</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            }
+            else
+            {
+                <p class="text-muted">No students enrolled in this course.</p>
+            }
+
+            <div class="mt-3">
+                <a asp-action="Update" asp-route-id="@Model.Id" class="btn btn-warning">Update</a>
+                <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+            </div>
+        </div>
+    </div>
+</div>

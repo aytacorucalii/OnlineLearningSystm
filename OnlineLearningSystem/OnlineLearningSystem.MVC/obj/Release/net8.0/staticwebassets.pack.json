@@ -1,0 +1,313 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\OnlineLearningSystem.MVC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\OnlineLearningSystem.MVC.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\admin\\css\\sb-admin-2.css",
+      "PackagePath": "staticwebassets\\admin\\css\\sb-admin-2.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\admin\\css\\sb-admin-2.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\sb-admin-2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\admin\\img\\undraw_posting_photo.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\undraw_posting_photo.svg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\admin\\img\\undraw_profile.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\undraw_profile.svg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\admin\\js\\sb-admin-2.js",
+      "PackagePath": "staticwebassets\\admin\\js\\sb-admin-2.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\admin\\js\\sb-admin-2.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\sb-admin-2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\admin\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\admin\\vendor\\fontawesome-free\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\admin\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\admin\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\admin\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\admin\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\admin\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\admin\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\admin\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\admin\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\admin\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\admin\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\admin\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\admin\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\admin\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\admin\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\admin\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\admin\\vendor\\jquery-easing\\jquery.easing.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\jquery-easing\\jquery.easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\admin\\vendor\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\assets\\img\\backend.png",
+      "PackagePath": "staticwebassets\\assets\\img\\backend.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\assets\\img\\bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\assets\\img\\data.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\data.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\assets\\img\\graphic.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\graphic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\assets\\img\\home-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\assets\\img\\icon\\facebook.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\facebook.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\assets\\img\\icon\\google.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\google.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\assets\\img\\icon\\instagram.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\instagram.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\assets\\img\\icon\\linkedin.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\linkedin.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\assets\\img\\icon\\twitter.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\twitter.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\assets\\img\\icon\\youtube.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\youtube.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\assets\\img\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\assets\\img\\man-1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\man-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\assets\\img\\man-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\man-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\assets\\img\\man-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\man-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\assets\\img\\man-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\man-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\assets\\img\\man-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\man-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\assets\\img\\mobile.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\mobile.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\assets\\img\\round-1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\round-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\assets\\img\\rsz_1logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\rsz_1logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\assets\\img\\soft.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\soft.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\assets\\img\\software.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\software.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\assets\\img\\ui.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\ui.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\assets\\img\\web-design.png",
+      "PackagePath": "staticwebassets\\assets\\img\\web-design.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\uploads\\course\\0b9697ce-f5a3-427e-908f-48e0332c1c4bWIN_20240516_15_07_42_Pro.jpg",
+      "PackagePath": "staticwebassets\\uploads\\course\\0b9697ce-f5a3-427e-908f-48e0332c1c4bWIN_20240516_15_07_42_Pro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\uploads\\course\\1137bd6f-8b64-4bb4-bcc2-65d2baee1451WIN_20240516_15_07_42_Pro.jpg",
+      "PackagePath": "staticwebassets\\uploads\\course\\1137bd6f-8b64-4bb4-bcc2-65d2baee1451WIN_20240516_15_07_42_Pro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\uploads\\course\\37a2d1b6-136e-4175-b6e1-afcc002340d7WIN_20240516_15_07_27_Pro.jpg",
+      "PackagePath": "staticwebassets\\uploads\\course\\37a2d1b6-136e-4175-b6e1-afcc002340d7WIN_20240516_15_07_27_Pro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\uploads\\course\\60260672-660a-4206-adf8-5d9b182bea67WIN_20240620_12_00_05_Pro.jpg",
+      "PackagePath": "staticwebassets\\uploads\\course\\60260672-660a-4206-adf8-5d9b182bea67WIN_20240620_12_00_05_Pro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\uploads\\course\\97f67644-5bc9-4cca-bed3-6bedb66314eedownload (2).jpg",
+      "PackagePath": "staticwebassets\\uploads\\course\\97f67644-5bc9-4cca-bed3-6bedb66314eedownload (2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\uploads\\course\\9c97d79d-951c-4758-b277-18d538a3259bWIN_20240516_15_07_42_Pro.jpg",
+      "PackagePath": "staticwebassets\\uploads\\course\\9c97d79d-951c-4758-b277-18d538a3259bWIN_20240516_15_07_42_Pro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\uploads\\course\\b6f90246-1cb5-4242-8d50-0ab1cf49541edownload (4).jpg",
+      "PackagePath": "staticwebassets\\uploads\\course\\b6f90246-1cb5-4242-8d50-0ab1cf49541edownload (4).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\uploads\\course\\b73f6f47-6bad-4565-8fac-f0ea1fad78f9download (3).jpg",
+      "PackagePath": "staticwebassets\\uploads\\course\\b73f6f47-6bad-4565-8fac-f0ea1fad78f9download (3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\uploads\\course\\c4fd1ca8-78ab-463c-9e47-42764ec42abadownload (1).jpg",
+      "PackagePath": "staticwebassets\\uploads\\course\\c4fd1ca8-78ab-463c-9e47-42764ec42abadownload (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\uploads\\course\\ecf14a4a-b81d-4162-ac88-5586ded0f613download (6).jpg",
+      "PackagePath": "staticwebassets\\uploads\\course\\ecf14a4a-b81d-4162-ac88-5586ded0f613download (6).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\uploads\\course\\f1f3e41b-542b-4e70-afa1-9b9a5f7d02e2download (6).jpg",
+      "PackagePath": "staticwebassets\\uploads\\course\\f1f3e41b-542b-4e70-afa1-9b9a5f7d02e2download (6).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\uploads\\student\\09b64cac-d86c-4ceb-aae1-829205e60fe7download (6).jpg",
+      "PackagePath": "staticwebassets\\uploads\\student\\09b64cac-d86c-4ceb-aae1-829205e60fe7download (6).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\uploads\\student\\1c3595d6-848f-4bf7-99a5-e696597b36bddownload (6).jpg",
+      "PackagePath": "staticwebassets\\uploads\\student\\1c3595d6-848f-4bf7-99a5-e696597b36bddownload (6).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\uploads\\student\\1d4f0e42-2a02-41be-9510-ba4cdc94a64bimages.jpg",
+      "PackagePath": "staticwebassets\\uploads\\student\\1d4f0e42-2a02-41be-9510-ba4cdc94a64bimages.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\uploads\\student\\2444bab8-d1b2-4a0d-bdd0-4f1d78dc10daWIN_20240516_15_07_27_Pro.jpg",
+      "PackagePath": "staticwebassets\\uploads\\student\\2444bab8-d1b2-4a0d-bdd0-4f1d78dc10daWIN_20240516_15_07_27_Pro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\uploads\\student\\79607fcb-8881-4b5b-9b89-c49c356fad1cdownload (6).jpg",
+      "PackagePath": "staticwebassets\\uploads\\student\\79607fcb-8881-4b5b-9b89-c49c356fad1cdownload (6).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\uploads\\teacher\\113479c3-a739-4317-83ac-dfe359c288b6images (1).jpg",
+      "PackagePath": "staticwebassets\\uploads\\teacher\\113479c3-a739-4317-83ac-dfe359c288b6images (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\uploads\\teacher\\5c39842b-9567-49d8-be05-c35389958edfimages.jpg",
+      "PackagePath": "staticwebassets\\uploads\\teacher\\5c39842b-9567-49d8-be05-c35389958edfimages.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\uploads\\teacher\\72209636-1944-4cd4-8b71-2513806b1716images (2).jpg",
+      "PackagePath": "staticwebassets\\uploads\\teacher\\72209636-1944-4cd4-8b71-2513806b1716images (2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\uploads\\teacher\\78dba3b0-f1e8-4356-a493-40913c4888f9WIN_20240516_15_07_51_Pro.jpg",
+      "PackagePath": "staticwebassets\\uploads\\teacher\\78dba3b0-f1e8-4356-a493-40913c4888f9WIN_20240516_15_07_51_Pro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\uploads\\teacher\\7b7daf3b-0624-4457-8148-ee9903189660images (3).jpg",
+      "PackagePath": "staticwebassets\\uploads\\teacher\\7b7daf3b-0624-4457-8148-ee9903189660images (3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearningSystem.MVC\\wwwroot\\uploads\\teacher\\8ce87cca-b2bb-4368-8e51-faffbc2b69abWIN_20240516_15_07_42_Pro.jpg",
+      "PackagePath": "staticwebassets\\uploads\\teacher\\8ce87cca-b2bb-4368-8e51-faffbc2b69abWIN_20240516_15_07_42_Pro.jpg"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.OnlineLearningSystem.MVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.OnlineLearningSystem.MVC.props",
+      "PackagePath": "build\\OnlineLearningSystem.MVC.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.OnlineLearningSystem.MVC.props",
+      "PackagePath": "buildMultiTargeting\\OnlineLearningSystem.MVC.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.OnlineLearningSystem.MVC.props",
+      "PackagePath": "buildTransitive\\OnlineLearningSystem.MVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

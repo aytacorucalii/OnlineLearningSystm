@@ -1,0 +1,71 @@
+﻿@model Student
+
+<div class="container">
+    <div class="card shadow mb-4">
+        <div class="card-header py-3">
+            <h6 class="m-0 font-weight-bold text-primary">Tələbə Detalları</h6>
+        </div>
+        <div class="card-body">
+            <div class="row">
+                <div class="col-md-4">
+                    <h5><strong>Ad:</strong> @Model.Name</h5>
+                    <h5><strong>Soyad:</strong> @Model.Surname</h5>
+                    <h5><strong>Qeydiyyat Tarixi:</strong> @Model.EnrollmentDate.ToString("dd/MM/yyyy")</h5>
+                    <h5><strong>Dərəcə:</strong> @Model.Grade?.ToString()</h5>
+                    <h5><strong>Cinsiyyət:</strong> @Model.Gender?.ToString()</h5>
+                </div>
+
+                <div class="col-md-4">
+                    @if (!string.IsNullOrEmpty(Model.ImgUrl))
+                    {
+                        <img style="width: 200px" src="~/uploads/student/@Model.ImgUrl" />
+                    }
+                    else
+                    {
+                        <p>Şəkil mövcud deyil.</p>
+                    }
+                </div>
+
+                <div class="col-md-4">
+                    <h5><strong>Yaradılma Zamanı:</strong> @Model.CreatedAt.ToString("dd/MM/yyyy HH:mm:ss")</h5>
+                    @if (Model.UpdatedAt != null)
+                    {
+                        <h5><strong>Yenilənmə Zamanı:</strong> @Model.UpdatedAt?.ToString("dd/MM/yyyy HH:mm:ss")</h5>
+                    }
+                </div>
+            </div>
+
+            @if (Model.StudentCourses?.Any() == true)
+            {
+                <h5 class="mt-4">Qeydiyyat olunan Kurslar</h5>
+                <table class="table table-bordered">
+                    <thead>
+                        <tr>
+                            <th>#</th>
+                            <th>Kursun Adı</th>
+                            <th>Qiymət</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var studentCourse in Model.StudentCourses)
+                        {
+                            <tr>
+                                <td>@studentCourse.CourseId</td>
+                                <td>@studentCourse.Course?.CourseName</td>
+                                <td>@studentCourse.Course?.Price</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            }
+            else
+            {
+                <p class="text-muted">Tələbə heç bir kursa qeydiyyatdan keçməyib.</p>
+            }
+
+            <div class="mt-4">
+                <a asp-controller="Student" asp-action="Index" class="btn btn-secondary">Geri Qayıt</a>
+            </div>
+        </div>
+    </div>
+</div>

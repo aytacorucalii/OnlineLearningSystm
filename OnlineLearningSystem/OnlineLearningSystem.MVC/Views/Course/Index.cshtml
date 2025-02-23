@@ -1,0 +1,94 @@
+﻿
+<!-- -- Course Page Start -- -->
+@if (Model.Courses.Count > 0)
+{
+	<section class="course" id="course">
+		<div class="container">
+			<div class="title">
+				<p>Choose <span>Your</span> Course</p>
+			</div>
+			<div class="row">
+				@foreach (CourseViewItemDTO course in Model.Courses)
+				{
+					<div class="col-3">
+						<div class="card">
+							<!-- Şəkili düzgün yerə yerləşdirmək üçün class əlavə edirik -->
+							<img src="~/uploads/course/@course.ImgUrl" alt="explore image" class="profile-card">
+							<div class="card-body">
+								<h4>@course.CourseName</h4>
+								<div class="wrap">
+									<div class="start">
+										<i class="fa-regular fa-star"></i>
+										<i class="fa-regular fa-star"></i>
+										<i class="fa-regular fa-star"></i>
+									</div>
+									<form asp-controller="Payment" asp-action="CreateCheckoutSession" method="post">
+										<button type="submit">@course.Price</button>
+									</form>
+								</div>
+							</div>
+							<div class="card-footer">
+								<small style="color: #FE5D59;">Bangla</small>
+								<small style="color: #999;">8 Weeks</small>
+							</div>
+						</div>
+					</div>
+				}
+			</div>
+		</div>
+	</section>
+}
+
+
+
+
+<!-- find course section start  -->
+
+<section class="feature" id="feature">
+	<div class="container">
+		<div class="row">
+			<div class="col-3" style="background: #F36371; color: #fff;">
+				<div class="wrap">
+					<h3>Instiute News</h3>
+					<p class="text">Cum sociis natoque penatibus et magnis dis parturient montesmus. Pro vel nibh et elit mollis commodo et nec augue tristique sed</p>
+					<a href="">Read more</a>
+				</div>
+			</div>
+			<div class="col-3" style="background: #E5B14C; color: #fff;">
+				<div class="wrap">
+					<h3>Opening Hours</h3>
+					<div class="time">
+						<p>Monday - Friday <span>8.00 - 17.00</span></p>
+						<p>Saturday <span>9.30 - 17.30</span></p>
+						<p>Sunday <span>9.30 - 15.00</span></p>
+					</div>
+					<a href="">Read more</a>
+				</div>
+			</div>
+			<div class="col-6" style="background: #098; color: #fff;">
+				<div class="wrap">
+					<h3>Find Your Course</h3>
+					<form>
+						<div class="input-site">
+							<div class="w-50">
+								<select name="" id="course">
+									<option value="">Find Course</option>
+									<option value="">Web Design</option>
+									<option value="">UI & UX Desing</option>
+									<option value="">Digital Marketing</option>
+								</select>
+								<input type="number" id="number" placeholder="Phone">
+								<input type="date" id="date">
+							</div>
+							<div class="w-50">
+								<input type="text" id="name" placeholder="Name">
+								<input type="email" id="email" placeholder="Email" placeholder="Phone">
+								<input type="submit" value="Send Message">
+							</div>
+						</div>
+					</form>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>

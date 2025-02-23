@@ -1,0 +1,317 @@
+﻿@model HomeVM
+
+@if (!string.IsNullOrEmpty(ViewBag.Message))
+{
+	<div class="alert @(string.IsNullOrEmpty(ViewBag.MessageType) ? "alert-info" : $"alert-{ViewBag.MessageType}")">
+		@ViewBag.Message
+	</div>
+}
+
+
+<!-- -- Home page Start -- -->
+
+<section class="home" id="home">
+	<div class="container">
+		<div class="warp">		
+			<h4>Teaching Turning, <br>Today’s Learners Into<br> Tomorrow’s Leaders.</h4>
+			<a href="" class="btn btn-primary">Signup Now</a>
+			<a href="" class="btn btn-secondary">Learn More</a>
+		</div>
+	</div>
+</section>
+
+<!-- -- About Page Start -- -->
+
+<section class="about" id="about">
+	<div class="container">
+		<div class="row">
+			<div class="col-4">
+				<div class="wrap">
+					<a href="" class="icon"><i class="fa-regular fa-envelope"></i></a>
+					<h3>Get Quote</h3>
+					<p>Fine the price of your ideal course</p>
+				</div>
+			</div>
+			<div class="col-4">
+				<div class="wrap">
+					<a href="" class="icon"><i class="fa-solid fa-headphones"></i></a>
+					<h3>Ask A Question</h3>
+					<p>Not sure what you need? Ask a Advisor</p>
+				</div>
+			</div>
+			<div class="col-4">
+				<div class="wrap">
+					<a href="" class="icon"><i class="fa-regular fa-circle-user"></i></a>
+					<h3>Join Today</h3>
+					<p>Signup Now for a Free 30 Day Trial</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<!-- -- Course Page Start -- -->
+@if (Model.Courses.Count > 0)
+{
+	<section class="course" id="course">
+		<div class="container">
+			<div class="title">
+				<p>Choose <span>Your</span> Course</p>
+			</div>
+			<div class="row">
+				@foreach (CourseViewItemDTO course in Model.Courses)
+				{
+					<div class="col-3">
+						<div class="card">
+							<!-- Şəkili düzgün yerə yerləşdirmək üçün class əlavə edirik -->
+							<img src="~/uploads/course/@course.ImgUrl" alt="explore image" class="profile-card">
+							<div class="card-body">
+								<h4>@course.CourseName</h4>
+								<div class="wrap">
+									<div class="start">
+										<i class="fa-regular fa-star"></i>
+										<i class="fa-regular fa-star"></i>
+										<i class="fa-regular fa-star"></i>
+									</div>
+									<form asp-controller="Payment" asp-action="CreateCheckoutSession" method="post">
+										<button type="submit">@course.Price</button>
+									</form>
+								</div>
+							</div>
+							<div class="card-footer">
+								<small style="color: #FE5D59;">Bangla</small>
+								<small style="color: #999;">8 Weeks</small>
+							</div>
+						</div>
+					</div>
+				}
+			</div>
+		</div>
+	</section>
+}
+
+
+<!-- find course section start  -->
+
+<section class="feature" id="feature">
+	<div class="container">
+		<div class="row">
+			<div class="col-3" style="background: #F36371; color: #fff;">
+				<div class="wrap">
+					<h3>About the Course</h3>
+					<p class="text">The course is presented with lessons prepared by experienced professionals, rich in practical experience, easy to understand, and application-oriented.</p>
+					<a href="">Learn More</a>
+				</div>
+			</div>
+			<div class="col-3" style="background: #E5B14C; color: #fff;">
+				<div class="wrap">
+					<h3>Opening Hours</h3>
+					<div class="time">
+						<p>Weekdays<span>8:00 AM - 10:00 PM</span></p>
+						<p>Saturday <span>8:00 AM - 6:00 PM</span></p>
+						<p>Sunday <span>8:00 AM - 6:00 PM</span></p>
+					</div>
+					<a href="">Learn More</a>
+				</div>
+			</div>
+			<div class="col-6" style="background: #098; color: #fff;">
+				<div class="wrap">
+					<h3>Select Course</h3>
+					<form>
+						<div class="input-site">
+							<div class="w-50">
+								<select name="" id="course">
+									<option value="">Select Course</option>
+
+									<option value="">Web Design</option>
+									<option value="">UI & UX Desing</option>
+									<option value="">Digital Marketing</option>
+								</select>
+								<input type="number" id="number" placeholder="Phone">
+								<input type="date" id="date">
+							</div>
+							<div class="w-50">
+								<input type="text" id="name" placeholder="Name">
+								<input type="email" id="email" placeholder="Email" placeholder="Phone">
+								<input type="submit" value="Send Message">
+							</div>
+						</div>
+					</form>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+@if (Model.Statistics != null)
+{
+<!-- counting section start -->
+	@foreach (var item in Model.Statistics)
+	{
+		<section class="count" id="count">
+			<div class="container">
+			<h2 class="title">LPI - System In Number</h2>
+			<div class="count-box">
+				<div class="item">
+					<i class="fa-regular fa-user"></i>
+					<div>@item.StudentCount</div>
+					<p>Students</p>
+				</div>
+				<div class="item">
+					<i class="fa-regular fa-folder-closed"></i>
+					<div>@item.CourseCount</div>
+					<p>Courses</p>
+				</div>
+				<div class="item">
+					<i class="fa-solid fa-briefcase"></i>
+					<div>12</div>
+					<p>Language Trainings</p>
+				</div>
+				<div class="item">
+					<i class="fa-solid fa-graduation-cap"></i>
+					<div>@item.TeacherCount</div>
+					<p>Teachers</p>
+				</div>
+				<div class="item">
+					<i class="fa-solid fa-school"></i>
+					<div>8</div>
+					<p>Branches</p>
+				</div>
+			</div>
+		</div>
+	</section>
+	}
+}
+@if (Model.Teachers.Count > 0)
+{
+	<section class="faculty" id="faculty">
+		<div class="container">
+			<h2 class="title">Teachers</h2>
+			<div class="row">
+				@foreach (TeacherViewItemDTO teacher in Model.Teachers)
+				{
+					<div class="col-3">
+						<div class="card">
+							<!-- Şəkili düzgün yerə yerləşdirmək üçün class əlavə edirik -->
+							<img src="~/uploads/teacher/@teacher.ImgUrl" alt="explore image" class="profile-card">
+							<div class="card-body">
+								<h3>@teacher.Name</h3>
+								<p>@teacher.Subject</p>
+							</div>
+						</div>
+					</div>
+				}
+			</div>
+		</div>
+	</section>
+}
+
+
+<section class="conteact" id="contact">
+	<h2 class="title">Contact <span>With</span> US</h2>
+	<div class="wrap" style="margin-bottom: 20px;">
+		<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d97726.31073809757!2d49.8554611!3d40.4092776!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x403071404905ed4f%3A0x616a8fae5fd4e0be!2sCodeAcademy%20Baku!5e0!3m2!1sen!2saz!4v1718289935991!5m2!1sen!2saz" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+	</div>
+	@if (User.Identity.IsAuthenticated)
+{
+	<div class="container">
+		<div class="row">
+			<div class="col-8">
+					<form asp-action="Create" asp-controller="Contact" method="post"
+						  style="max-width: 500px; margin: 0 auto; padding: 20px; background-color: #f9f9f9;
+    border-radius: 12px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1); border: 2px solid #e0e0e0;">
+
+						<h3 style="text-align: center; margin-bottom: 20px; color: #333;">Write a Message</h3>
+
+							<label style="font-weight: bold; color: #333;">Select Course:</label>
+					<select name="CourseId" asp-for="Courses" class="form-control" required
+							style="width: 100%; border: 2px solid #ddd; border-radius: 6px; margin-bottom: 15px;
+        background-color: #fff; color: #333; font-weight: bold; padding: 10px;">
+						<option value="">-- Select a Course --</option>
+							@foreach (var course in (IEnumerable<SelectListItem>)ViewData["Courses"])
+							{
+								<option value="@course.Value">@course.Text</option>
+							}
+					</select>
+
+						<label style="font-weight: bold; color: #333;">Rating (1-5):</label>
+						<input type="number" name="Rating" min="1" max="5" required class="form-control"
+							   style="width: 100%; padding: 12px; border: 2px solid #ddd; border-radius: 6px;
+        margin-bottom: 15px; background-color: #fff; color: #333; font-weight: bold;">
+
+						<label style="font-weight: bold; color: #333;">Your message:</label>
+						<textarea name="Comment" required class="form-control"
+								  style="width: 100%; padding: 12px; border: 2px solid #ddd; border-radius: 6px;
+        margin-bottom: 15px; height: 150px; background-color: #fff; color: #333; font-weight: bold;"></textarea>
+
+						<button type="submit" class="btn btn-primary mt-2"
+								style="width: 100%; padding: 12px; background-color: #28a745; border: none;
+    color: white; font-size: 16px; border-radius: 4px; cursor: pointer;
+    transition: background-color 0.3s;">
+							Submit Message
+						</button>
+					</form>
+
+					@if (TempData["SuccessMessage"] != null)
+					{
+						<div class="alert alert-info mt-2" style="text-align: center; background-color: #17a2b8; color: white; padding: 15px; border-radius: 8px;">
+							@TempData["SuccessMessage"]
+						</div>
+					}
+
+			</div>
+			<div class="col-4">
+				<div class="before">
+					<h5>Before Contacting Us</h5>
+					<p>The course is delivered with lessons prepared by experienced experts, enriched with practical knowledge, easy to understand, and application-oriented. Each topic is supported by practical exercises so that participants can apply them in real-world projects.</p>
+				</div>
+				<div class="info">
+					<h5>Contact Information</h5>
+					<p>
+						<i class="fa-regular fa-paper-plane"></i>
+						<small class="address">Azərbaycan,Bakı</small>
+					</p>
+					<p>
+						<i class="fa-solid fa-mobile-screen-button"></i>
+						<small>+994(70)546-75-01</small>
+					</p>
+					<p>
+						<i class="fa-regular fa-envelope"></i>
+						<small>aytacho-ab205@code.edu.az</small>
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	}
+	else
+	{
+		<p style="text-align: center; color: #fff; font-size: 16px;">
+			You must be logged in to write a message.
+			<a asp-area="Admin" asp-action="Login" asp-controller="Account" style="color: #FF214F; font-weight: bold;">Login here</a>
+		</p>
+	}
+	<div id="testmonial" class="container-fluid wow fadeIn bg-dark text-light has-height-lg middle-items">
+		<h2 class="section-title my-5 text-center">Message</h2>
+		<div class="row mt-3 mb-5">
+			@if (Model.Courses != null && Model.Courses.Any())
+			{
+				@foreach (ContactDTO message in Model.Messages)
+				{
+					<div class="col-md-4 my-3 my-md-0">
+						<div class="testmonial-card">
+							<div>
+								<strong>⭐ @message.Rating</strong>
+							</div>
+							<div class="testmonial-body">
+								<p>@message.Comment</p>
+							</div>
+						</div>
+					</div>
+				}
+			}
+			else
+			{
+				<p style="text-align: center; color: white;">No message available.</p>
+			}
+		</div>
+</section>

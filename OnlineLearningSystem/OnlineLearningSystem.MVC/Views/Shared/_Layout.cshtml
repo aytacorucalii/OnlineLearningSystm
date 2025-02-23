@@ -1,0 +1,107 @@
+﻿@using OnlineLearning.BL.Services.Abstractions;
+@inject ILayoutService service;
+@{
+    Dictionary<string, string> settings = service.GetSettings();
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Learning Online System</title>
+    <link rel="icon" href="~/assets/img/logo.png">
+
+    <!-- Icon CDN -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css" integrity="sha512-5Hs3dF2AEPkpNAR7UiOHba+lRSJNeM2ECkwxUIxC1Q/FLycGTbNapWXB4tP889k5T5Ju8fs4b1P5z/iB4nMfSQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="~/assets/css/style.css">
+</head>
+<body>
+    <!-- Navigation Bar -->
+    <nav>
+        <div class="container">
+            <div class="row">
+                <div class="col-2">
+                    <a href="" class="navbar-brand">
+                        <h2>LPI - System</h2>
+                    </a>
+                </div>
+                <div class="col-10">
+                    <ul class="navbar-nav">
+                        <li><a asp-controller="Home" asp-action="Index" class="active">Home</a></li>
+                        <li><a asp-controller="About" asp-action="Index">About</a></li>
+                        <li><a asp-controller="Course" asp-action="Index">Course</a></li>
+                        <li><a asp-controller="Teacher" asp-action="Index">Teachers</a></li>
+                        <li><a asp-controller="Contact" asp-action="Index">Contact</a></li>
+                        <li><a asp-controller="Course" asp-action="SearchCourses"><i class="fa-solid fa-magnifying-glass"></i></a></li>
+
+                        <!-- Authentication Links -->
+                        @if (!User.Identity.IsAuthenticated)
+                        {
+                            <li class="header-top-contact">
+                                <a asp-area="Admin" asp-controller="Account" asp-action="Login">sign in</a>
+                            </li>
+                            <li class="header-top-contact">
+                                <a asp-area="Admin" asp-controller="Account" asp-action="Register">register</a>
+                            </li>
+                        }
+                        else if (User.IsInRole(Roles.Admin.ToString()))
+                        {
+                            <li class="header-top-contact">
+                                <a asp-area="Admin" asp-controller="Dashboard">panel</a>
+                            </li>
+                            <li class="header-top-contact">
+                                <a asp-area="Admin" asp-controller="Account" asp-action="Logout">sign out</a>
+                            </li>
+                        }
+                        else
+                        {
+                            <li class="header-top-contact">
+                                <a asp-area="Admin" asp-controller="Account" asp-action="Logout">sign out</a>
+                            </li>
+                        }
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    @RenderBody()
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <h2>Let’s connect!</h2>
+            <p>Employers & Recruiters, stay up to date with the latest product updates & announcements.</p>
+            <div class="email-box">
+                <input type="email" placeholder="example@gmail.com.." />
+                <button class="join-btn">Join</button>
+            </div>
+            <div class="social-icons">
+                <a href='@settings["facebook"] ?? ""'><img src="~/assets/img/icon/facebook.png" alt="Facebook"></a>
+                <a href="#"><img src="~/assets/img/icon/google.png" alt="Google"></a>
+                <a href='@settings["instagram"] ?? ""'><img src="~/assets/img/icon/instagram.png" alt="Instagram"></a>
+                <a href='@settings["linkedin"] ?? ""'><img src="~/assets/img/icon/linkedin.png" alt="LinkedIn"></a>
+                <a href='@settings["twitter"] ?? ""'><img src="~/assets/img/icon/twitter.png" alt="Twitter"></a>
+                <a href='@settings["youtube"] ?? ""'><img src="~/assets/img/icon/youtube.png" alt="YouTube"></a>
+            </div>
+            <p class="copyright">Discovere 2024 © All Right reserved</p>
+            <p class="design-credit">Designed by <span>Emon Hossain Hira</span></p>
+        </div>
+    </footer>
+
+    @RenderSection("Scripts", required: false)
+
+    <!-- Modal Activation Script -->
+    <script>
+        $(document).ready(function () {
+            $("#searchIcon").click(function (e) {
+                e.preventDefault(); // Prevent default behavior (link click)
+                $('#searchModal').modal('show'); // Show modal
+            });
+        });
+    </script>
+</body>
+</html>

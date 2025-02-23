@@ -1,0 +1,35 @@
+﻿@model PaymentDTO
+
+
+<h1>Yeni Ödəniş Yarat</h1>
+
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <label for="Amount">Məbləğ</label>
+        <input type="number" class="form-control" id="Amount" name="Amount" value="@Model.Amount" required />
+    </div>
+    <div class="form-group">
+        <label for="Currency">Valyuta</label>
+        <input type="text" class="form-control" id="Currency" name="Currency" value="@Model.Currency" required />
+    </div>
+    <div class="form-group">
+        <label for="Status">Status</label>
+        <select class="form-control" id="Status" name="Status" required>
+            <option value="Completed">Tamamlanmış</option>
+            <option value="Failed">Uğursuz</option>
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label for="SuccessUrl">Uğurlu Url</label>
+        <input type="url" class="form-control" id="SuccessUrl" name="SuccessUrl" value="@Model.SuccessUrl" required />
+    </div>
+    <div class="form-group">
+        <label for="CancelUrl">Ləğv Edilmiş Url</label>
+        <input type="url" class="form-control" id="CancelUrl" name="CancelUrl" value="@Model.CancelUrl" required />
+    </div>
+
+    <button type="submit" class="btn btn-success">Yarat</button>
+</form>
+
+<a href="@Url.Action("Index")" class="btn btn-secondary mt-2">Geri</a>

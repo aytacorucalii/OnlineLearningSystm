@@ -20,6 +20,8 @@ services:
       - SA_PASSWORD=aytac2005ayTac  # Şifrənizi buraya daxil edin
     ports:
       - "1433:1433"
+    volumes:
+      - sqlserver-data:/var/opt/mssql
     healthcheck:
       test: ["CMD", "/opt/mssql-tools/bin/sqlcmd", "-U", "sa", "-P", "aytac2005ayTac", "-Q", "SELECT 1"]
       interval: 30s

@@ -5,7 +5,7 @@ services:
     build:
       context: .  # Dockerfile'ın olduğu qovluq
     ports:
-      - "8080:8080"  # Host və konteyner portu
+      - "80:80"  # Host və konteyner portu
     environment:
       - ASPNETCORE_ENVIRONMENT=Development
     depends_on:

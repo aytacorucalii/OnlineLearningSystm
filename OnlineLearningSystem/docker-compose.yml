@@ -1,0 +1,35 @@
+﻿version: '3.8'
+services:
+  mvc:
+    image: online-learning-system  # Dockerfile ilə qurulmuş image
+    build:
+      context: .  # Dockerfile'ın olduğu qovluq
+    ports:
+      - "8080:8080"  # Host və konteyner portu
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    depends_on:
+      - db  # db konteynerinə asılıdır
+    networks:
+      - app-network
+
+  db:
+    image: mcr.microsoft.com/mssql/server:2019-latest  # SQL Server image-i
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=aytac2005ayTac  # Şifrənizi buraya daxil edin
+    ports:
+      - "1433:1433"
+    healthcheck:
+      test: ["CMD", "/opt/mssql-tools/bin/sqlcmd", "-U", "sa", "-P", "aytac2005ayTac", "-Q", "SELECT 1"]
+      interval: 30s
+      retries: 5
+      start_period: 5s
+      timeout: 10s
+
+    networks:
+      - app-network
+
+networks:
+  app-network:
+    driver: bridge

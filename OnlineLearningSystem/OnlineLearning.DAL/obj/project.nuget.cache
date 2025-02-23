@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1kg60spn8ts=",
+  "dgSpecHash": "hjn0b3PYj9Y=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearning.DAL\\OnlineLearning.DAL.csproj",
+  "projectFilePath": "C:\\Users\\Hp\\OneDrive\\Desktop\\OnlineLearninSystm\\OnlineLearningSystem\\OnlineLearning.DAL\\OnlineLearning.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hp\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Hp\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

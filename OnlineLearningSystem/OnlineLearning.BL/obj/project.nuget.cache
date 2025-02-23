@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5Qr9B8S+vTg=",
+  "dgSpecHash": "QRfb8JRAxDU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearning.BL\\OnlineLearning.BL.csproj",
+  "projectFilePath": "C:\\Users\\Hp\\OneDrive\\Desktop\\OnlineLearninSystm\\OnlineLearningSystem\\OnlineLearning.BL\\OnlineLearning.BL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hp\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Hp\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
@@ -96,16 +96,5 @@
     "C:\\Users\\Hp\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
     "C:\\Users\\Hp\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1603",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Microsoft.AspNetCore.Identity 2.3.0 depends on Microsoft.Extensions.Identity.Core (>= 2.3.0) but Microsoft.Extensions.Identity.Core 2.3.0 was not found. An approximate best match of Microsoft.Extensions.Identity.Core 3.0.0 was resolved.",
-      "libraryId": "Microsoft.Extensions.Identity.Core",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    }
-  ]
+  "logs": []
 }

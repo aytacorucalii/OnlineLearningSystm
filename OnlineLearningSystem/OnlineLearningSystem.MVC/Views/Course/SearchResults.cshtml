@@ -1,0 +1,71 @@
+﻿@model IEnumerable<CourseListItemDTO>
+
+<div class="container mt-5">
+    <h2 class="text-center">Search Results</h2>
+
+    @if (Model.Any())
+    {
+        <ul class="list-group">
+            @foreach (var course in Model)
+            {
+                <li class="list-group-item course-item">
+                    <h5 class="course-title">@course.CourseName</h5>
+                    <p class="course-description">@course.Description</p>
+                    <small class="course-price">Instructor: @course.Price</small>
+                </li>
+            }
+        </ul>
+    }
+    else
+    {
+        <p class="text-center no-results">No courses found.</p>
+    }
+</div>
+
+<style>
+    /* General Styles */
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f9f9f9;
+    }
+
+    /* Container Styling */
+    .container {
+        margin-top: 50px;
+    }
+
+    /* List Items Styling */
+    .list-group-item {
+        background-color: #fff;
+        border-radius: 8px;
+        margin-bottom: 15px;
+        padding: 20px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+
+    /* Course Title */
+    .course-title {
+        font-size: 1.5em;
+        font-weight: bold;
+    }
+
+    /* Course Description */
+    .course-description {
+        font-size: 1.1em;
+        color: #555;
+        margin: 10px 0;
+    }
+
+    /* Instructor Info */
+    .course-price {
+        font-size: 0.9em;
+        color: #888;
+    }
+
+    /* No Results Message */
+    .no-results {
+        font-size: 18px;
+        font-weight: bold;
+        color: #888;
+    }
+</style>

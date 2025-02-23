@@ -48,7 +48,7 @@ namespace OnlineLearningSystem.MVC.Controllers
 
             var courses = await _courseService.SearchCoursesAsync(searchTerm, page, pageSize);
 
-            return Ok(courses);
+            return View("SearchResults",courses);
         }
     }
 }

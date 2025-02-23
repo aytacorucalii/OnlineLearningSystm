@@ -273,11 +273,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearning.Core\\OnlineLearning.Core.csproj",
+      "projectUniqueName": "C:\\Users\\Hp\\OneDrive\\Desktop\\OnlineLearninSystm\\OnlineLearningSystem\\OnlineLearning.Core\\OnlineLearning.Core.csproj",
       "projectName": "OnlineLearning.Core",
-      "projectPath": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearning.Core\\OnlineLearning.Core.csproj",
+      "projectPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\OnlineLearninSystm\\OnlineLearningSystem\\OnlineLearning.Core\\OnlineLearning.Core.csproj",
       "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hp\\source\\repos\\OnlineLearningSystem\\OnlineLearning.Core\\obj\\",
+      "outputPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\OnlineLearninSystm\\OnlineLearningSystem\\OnlineLearning.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
